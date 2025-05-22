@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Concursos de TI</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 20px; }
+    .container { max-width: 1200px; margin: auto; }
+    h1 { text-align: center; margin-bottom: 30px; }
+    #cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+    .card { background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 16px; display: flex; flex-direction: column; }
+    .card h2 { margin: 0 0 8px; font-size: 1.2rem; }
+    .card .meta { font-size: 0.9rem; color: #555; margin-bottom: 12px; }
+    .card .keywords { margin-bottom: 12px; }
+    .card .keywords span { display: inline-block; background: #e0f7fa; color: #00796b; padding: 4px 8px; margin: 2px; border-radius: 4px; font-size: 0.85rem; }
+    .card a { margin-top: auto; text-decoration: none; color: #1e88e5; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Concursos de TI Encontrados</h1>
+    <div id="cards">Carregando...</div>
+  </div>
+  <script>
+    // Espera por data.json no mesmo diretório
+    fetch('data.json')
+      .then(res => res.json())
+      .then(list => {
+        const container = document.getElementById('cards');
+        container.innerHTML = '';
+        list.forEach(item => {
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = `
+            <h2>${item.title}</h2>
+            <div class="meta">Data: ${item.date}</div>
+            <div class="keywords">
+              ${item.keywords.map(kw => `<span>${kw}</span>`).join('')}
+            </div>
+            <a href="${item.url}" target="_blank">Ver edital</a>
+          `;
+          container.appendChild(card);
+        });
+      })
+      .catch(err => {
+        document.getElementById('cards').innerText = 'Erro ao carregar dados.';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>

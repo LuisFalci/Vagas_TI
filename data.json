@@ -137,5 +137,166 @@
       "cloud"
     ],
     "url": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-de-saude-08-de-abril-retifica-processo-seletivo-com-41-vagas"
+  },
+  {
+    "title": "Processo Seletivo é aberto para Auxiliar de Docente na Etec Itaquera II - SP",
+    "date": "22/05/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "banco de dados",
+      "engenharia de software",
+      "técnico em informática"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/processo-seletivo-e-aberto-para-auxiliar-de-docente-na-etec-itaquera-ii-sp"
+  },
+  {
+    "title": "Processo Seletivo para Analista Desenvolvedor é aberto em Campinas - SP",
+    "date": "02/06/2025",
+    "keywords": [
+      "analista desenvolvedor",
+      "engenharia de software",
+      "python"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-analista-desenvolvedor-e-aberto-em-campinas-sp"
+  },
+  {
+    "title": "Prefeitura de Itatiba - SP retifica Concurso Público com mais de 200 vagas",
+    "date": "Prorrogado até15/05/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "banco de dados",
+      "técnico de informática",
+      "sql",
+      "java",
+      "javascript",
+      "c#",
+      "TCP/IP",
+      "cloud",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas"
+  },
+  {
+    "title": "Prefeitura de Teodoro Sampaio - SP abre 39 vagas em novo Concurso Público",
+    "date": "27/05/2025",
+    "keywords": [
+      "MySQL",
+      "técnico em informática",
+      "sql",
+      "java",
+      "javascript",
+      "TCP/IP",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-39-vagas-em-novo-concurso-publico"
+  },
+  {
+    "title": "Niterói PREV - RJ divulga Concurso Público com salários de até R$ 12,9 mil",
+    "date": "22/05/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "banco de dados",
+      "PMBOK",
+      "Scrum",
+      "técnico em informática",
+      "técnico de informática",
+      "TCP/IP",
+      "cloud",
+      "azure",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/niteroi-prev-rj-divulga-concurso-publico-com-salarios-de-ate-12-9-mil"
+  },
+  {
+    "title": "Prefeitura de Niterói - RJ retifica Concurso Público com salários de até R$ 12 mil",
+    "date": "Prorrogado até19/06/2025",
+    "keywords": [
+      "PMBOK",
+      "SGBD",
+      "Scrum",
+      "MySQL",
+      "sql",
+      "java",
+      "javascript",
+      "c#",
+      "TCP/IP",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-niteroi-rj-retifica-concurso-publico-com-salarios-de-ate-12-mil"
+  },
+  {
+    "title": "FCRB - RJ retifica três Concursos Públicos com salários de até R$ 14,5 mil",
+    "date": "12/05/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "banco de dados",
+      "PMBOK",
+      "MySQL",
+      "sql",
+      "TCP/IP",
+      "IPv4",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/fcrb-rj-retifica-tres-concursos-publicos-com-salarios-de-ate-14-5-mil"
+  },
+  {
+    "title": "UENF - RJ abre inscrições para 158 vagas em novo Concurso Público retificado",
+    "date": "11/06/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "banco de dados",
+      "PMBOK",
+      "SGBD",
+      "Scrum",
+      "MySQL",
+      "sql",
+      "java",
+      "python",
+      "TCP/IP",
+      "IPv4",
+      "docker",
+      "kubernetes",
+      "cloud",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/uenf-rj-abre-inscricoes-para-158-vagas-em-novo-concurso-publico-retificado"
+  },
+  {
+    "title": "UFF - RJ promove Concurso Público com 105 vagas",
+    "date": "09/06 a07/07/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "banco de dados"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/uff-rj-promove-concurso-publico-com-105-vagas"
+  },
+  {
+    "title": "Câmara de Viçosa - MG retifica Concurso Público com 13 vagas",
+    "date": "12/06 a14/07/2025",
+    "keywords": [
+      "tecnologia da informação",
+      "tecnologia de informação",
+      "banco de dados",
+      "MySQL",
+      "técnico em informática",
+      "sql",
+      "TCP/IP",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-vicosa-mg-retifica-concurso-publico-com-13-vagas"
+  },
+  {
+    "title": "Prefeitura de Serrania - MG retifica dois Concursos Públicos com 47 vagas",
+    "date": "Reaberto até23/06/2025",
+    "keywords": [
+      "banco de dados",
+      "técnico em informática",
+      "técnico de informática",
+      "sql",
+      "TCP/IP",
+      "IPv4",
+      "TCP"
+    ],
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas"
   }
 ]

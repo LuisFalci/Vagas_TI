@@ -5,58 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Concursos TI</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f0f2f5;
-      margin: 0;
-      padding: 20px;
-    }
-    .container {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 20px;
-      max-width: 1200px;
-      margin: auto;
-    }
-    .card {
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      transition: transform 0.2s;
-    }
-    .card:hover {
-      transform: translateY(-4px);
-    }
-    .card-header {
-      padding: 16px;
-      font-size: 1.1rem;
-      font-weight: bold;
-    }
-    .card-body {
-      padding: 0 16px 16px;
-      flex: 1;
-    }
-    .card-body p {
-      margin: 8px 0;
-      font-size: 0.9rem;
-    }
-    .card-footer {
-      padding: 16px;
-      text-align: right;
-    }
-    .card-footer a {
-      text-decoration: none;
-      font-weight: bold;
-    }
-    .active {
-      border-left: 6px solid #28a745;
-    }
-    .expired {
-      border-left: 6px solid #dc3545;
-    }
+    body { font-family: Arial, sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
+    h1 { text-align: center; margin-bottom: 20px; }
+    .container { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; max-width: 1200px; margin: auto; }
+    .card { background: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; display: flex; flex-direction: column; transition: transform 0.2s; }
+    .card:hover { transform: translateY(-4px); }
+    .card-header { padding: 16px; font-size: 1.1rem; font-weight: bold; }
+    .card-body { padding: 0 16px 16px; flex: 1; }
+    .card-body p { margin: 8px 0; font-size: 0.9rem; }
+    .card-footer { padding: 16px; text-align: right; }
+    .card-footer a { text-decoration: none; font-weight: bold; }
+    .active { border-left: 6px solid #28a745; }
+    .expired { border-left: 6px solid #dc3545; }
   </style>
 </head>
 <body>
@@ -70,26 +30,37 @@
       return new Date(y, m - 1, d);
     }
 
-    // Carrega JSON local
+    // Extrai início e fim do rawDate (item.date)
+    function parseDateRange(raw) {
+      if (!raw) return [null, null];
+      // padroniza espaços
+      raw = raw.replace(/\s*a\s*/i, ' a ');
+      const rangeMatch = raw.match(/(\d{2}\/\d{2}\/\d{4})\s+a\s+(\d{2}\/\d{2}\/\d{4})/);
+      if (rangeMatch) return [rangeMatch[1], rangeMatch[2]];
+      const singleMatch = raw.match(/(\d{2}\/\d{2}\/\d{4})/);
+      if (singleMatch) return [singleMatch[1], null];
+      return [null, null];
+    }
+
     fetch('data.json')
       .then(res => res.json())
       .then(list => {
         const today = new Date();
-        // Map para incluir status
         list.forEach(item => {
-          if (item.start_date) {
-            const end = item.end_date ? parseDate(item.end_date) : parseDate(item.start_date);
-            item.expired = end < today;
-            item.sortDate = parseDate(item.start_date);
-          } else {
-            item.expired = true;
-            item.sortDate = Infinity;
-          }
+          const raw = item.start_date || item.date || '';
+          const [start, end] = parseDateRange(raw);
+          item._start = start;
+          item._end = end;
+          // definir expirado
+          const endDate = end ? parseDate(end) : (start ? parseDate(start) : null);
+          item.expired = endDate ? (endDate < today) : true;
+          // sortKey
+          item.sortKey = start ? parseDate(start) : new Date(8640000000000000);
         });
-        // Ordena: ativos primeiro por data asc, depois expirados
+        // ordena: ativos primeiro por data asc, depois expirados
         list.sort((a, b) => {
           if (a.expired !== b.expired) return a.expired - b.expired;
-          return a.sortDate - b.sortDate;
+          return a.sortKey - b.sortKey;
         });
 
         const container = document.getElementById('cards-container');
@@ -97,26 +68,23 @@
           const card = document.createElement('div');
           card.className = 'card ' + (item.expired ? 'expired' : 'active');
 
-          // Header
           const header = document.createElement('div');
           header.className = 'card-header';
           header.textContent = item.title;
           card.appendChild(header);
 
-          // Body
           const body = document.createElement('div');
           body.className = 'card-body';
-          const dateText = item.start_date
-            ? (item.end_date ? `${item.start_date} até ${item.end_date}` : item.start_date)
+          const dateText = item._start
+            ? (item._end ? `${item._start} até ${item._end}` : item._start)
             : 'Data indefinida';
           body.innerHTML = `
             <p><strong>Período:</strong> ${dateText}</p>
-            <p><strong>Cargo:</strong> ${item.job}</p>
-            <p><strong>Matérias:</strong> ${item.materias.join(', ')}</p>
+            <p><strong>Cargo:</strong> ${item.job || '—'}</p>
+            <p><strong>Matérias:</strong> ${item.materias ? item.materias.join(', ') : '—'}</p>
           `;
           card.appendChild(body);
 
-          // Footer
           const footer = document.createElement('div');
           footer.className = 'card-footer';
           const link = document.createElement('a');

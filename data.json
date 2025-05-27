@@ -282,5 +282,293 @@
     ],
     "job": "Técnico em informática",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vermelho-novo-mg-publica-concurso-publico-com-74-vagas"
+  },
+  {
+    "title": "Novo Concurso Público em Iracema do Oeste - PR oferece 32 vagas",
+    "start_date": "30/06/2025",
+    "end_date": null,
+    "materias": [
+      "java",
+      "javascript",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/novo-concurso-publico-em-iracema-do-oeste-pr-oferece-32-vagas"
+  },
+  {
+    "title": "Prefeitura de São João - PR retifica edital de Concurso Público",
+    "start_date": "05/06/2025",
+    "end_date": null,
+    "materias": [
+      "java",
+      "javascript",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-pr-retifica-edital-de-concurso-publico"
+  },
+  {
+    "title": "IPE Saúde - RS divulga Processo Seletivo com salários de até R$ 10 mil",
+    "start_date": "30/05/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/ipe-saude-rs-divulga-processo-seletivo-com-salarios-de-ate-10-mil"
+  },
+  {
+    "title": "Prefeitura de Lajeado - RS publica editais de Concurso Público e Processo Seletivo",
+    "start_date": "26/06/2025",
+    "end_date": null,
+    "materias": [
+      "arquitetura de software",
+      "cmmi",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "postgresql",
+      "qualidade de software",
+      "scrum",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "web services"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-publica-editais-de-concurso-publico-e-processo-seletivo"
+  },
+  {
+    "title": "Prefeitura de Mostardas - RS abre Processo Seletivo com salários de até R$ 21,1 mil",
+    "start_date": "06/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mostardas-rs-abre-processo-seletivo-com-salarios-de-ate-21-1-mil"
+  },
+  {
+    "title": "TRENSURB de Porto Alegre - RS retifica Concurso Público com 64 vagas",
+    "start_date": null,
+    "end_date": null,
+    "materias": [
+      "ci/cd",
+      "cobit",
+      "devops",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "nosql",
+      "pmbok",
+      "postgresql",
+      "scrum",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "web services",
+      "governança de ti",
+      "kubernetes"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/trensurb-de-porto-alegre-rs-retifica-concurso-publico-com-64-vagas"
+  },
+  {
+    "title": "Prefeitura de Painel - SC publica Processo Seletivo com salários de até R$ 21,5 mil",
+    "start_date": "09/06/2025",
+    "end_date": null,
+    "materias": [
+      "html5",
+      "java",
+      "javascript",
+      "soap",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "web services",
+      "docker"
+    ],
+    "job": "Analista de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-painel-sc-publica-processo-seletivo-com-salarios-de-ate-21-5-mil"
+  },
+  {
+    "title": "Prefeitura de Porto Belo - SC publica retificação de Processo Seletivo",
+    "start_date": "12/06/2025",
+    "end_date": null,
+    "materias": [
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-belo-sc-publica-retificacao-de-processo-seletivo"
+  },
+  {
+    "title": "Samae de São Bento do Sul - SC publica edital de Concurso Público",
+    "start_date": "01/07/2025",
+    "end_date": null,
+    "materias": [
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/samae-de-sao-bento-do-sul-sc-publica-edital-de-concurso-publico"
+  },
+  {
+    "title": "SEE-GO suspende Concurso Público para Auditor-Fiscal",
+    "start_date": null,
+    "end_date": null,
+    "materias": [
+      "data lake",
+      "data mining",
+      "data warehouse",
+      "extreme programming",
+      "machine learning",
+      "nosql",
+      "pl/sql",
+      "pmbok",
+      "scrum",
+      "sql"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/see-go-suspende-concurso-publico-para-auditor-fiscal"
+  },
+  {
+    "title": "CRO - AC promove Concurso Público com salários de até R$ 4 mil",
+    "start_date": "05/06/2025",
+    "end_date": null,
+    "materias": [
+      "inteligência artificial",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/cro-ac-promove-concurso-publico-com-salarios-de-ate-4-mil"
+  },
+  {
+    "title": "Prefeitura de Barra do Corda - MA retifica dois editais de Concurso Público",
+    "start_date": "16/06/2025",
+    "end_date": null,
+    "materias": [
+      "java",
+      "javascript",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-corda-ma-retifica-dois-editais-de-concurso-publico"
+  },
+  {
+    "title": "CRMV abre Concurso Público em Teresina - PI",
+    "start_date": "22/06/2025",
+    "end_date": null,
+    "materias": [
+      "cmmi",
+      "cobit",
+      "data mining",
+      "engenharia de requisitos",
+      "engenharia de software",
+      "infraestrutura de ti",
+      "itil",
+      "java",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "pmbok",
+      "qualidade de software",
+      "scrum",
+      "sgd/me nº 94",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "trigger",
+      "governança de ti"
+    ],
+    "job": "Analista de Suporte",
+    "url": "https://www.pciconcursos.com.br/noticias/crmv-abre-concurso-publico-em-teresina-pi"
+  },
+  {
+    "title": "IFRN abre Concurso Público com 45 vagas para Docentes",
+    "start_date": "03/06/2025",
+    "end_date": null,
+    "materias": [
+      "arquitetura de software",
+      "hibernate",
+      "inteligência artificial",
+      "java",
+      "javascript",
+      "microsserviços",
+      "mysql",
+      "nosql",
+      "react",
+      "scrum",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "vue.js",
+      "node.js",
+      "orientação a objetos"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/ifrn-abre-concurso-publico-com-45-vagas-para-docentes"
+  },
+  {
+    "title": "Cremese abre Concurso Público para cadastro reserva e uma vaga em Aracaju - SE",
+    "start_date": "20/06/2025",
+    "end_date": null,
+    "materias": [
+      "arquitetura de software",
+      "design patterns",
+      "devops",
+      "engenharia de software",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "machine learning",
+      "microsserviços",
+      "nosql",
+      "pmbok",
+      "react",
+      "scrum",
+      "soap",
+      "sql",
+      "sql server",
+      "stored procedure",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "vue.js",
+      "governança de ti",
+      "docker"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/cremese-abre-concurso-publico-para-cadastro-reserva-e-uma-vaga-em-aracaju-se"
+  },
+  {
+    "title": "Prefeitura de Itaiópolis - SC abre inscrições para quatro Concursos Públicos",
+    "start_date": "30/06/2025",
+    "end_date": null,
+    "materias": [
+      "engenharia de software",
+      "java",
+      "javascript",
+      "qualidade de software",
+      "sql"
+    ],
+    "job": "Analista de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaiopolis-sc-abre-inscricoes-para-quatro-concursos-publicos"
   }
 ]

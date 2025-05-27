@@ -1,951 +1,8 @@
 [
   {
     "title": "Polícia Federal informa abertura de Concurso Público com 1.000 vagas",
-    "date": "13/06/2025",
-    "materias": [
-      "banco de dados",
-      "big data",
-      "cloud",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "jsp",
-      "machine learning",
-      "nosql",
-      "oauth",
-      "olap",
-      "owasp",
-      "rup",
-      "rest",
-      "sgd/me nº 94",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "aprendizado de máquina",
-      "criptografia",
-      "governança de ti",
-      "docker",
-      "kubernetes"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas"
-  },
-  {
-    "title": "ANPD divulga edital de Processo Seletivo com salários de até R$ 9 mil",
-    "date": "15/06/2025",
-    "materias": [
-      "iso/iec 27001",
-      "jsp",
-      "pmbok",
-      "rup",
-      "rest",
-      "aprendizado de máquina"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/anpd-divulga-edital-de-processo-seletivo-com-salarios-de-ate-9-mil"
-  },
-  {
-    "title": "CONAB divulga retificação de Concurso Público com 403 vagas",
-    "date": "15/05/2025",
-    "materias": [
-      "banco de dados",
-      "big data",
-      "ci/cd",
-      "cmmi",
-      "data warehouse",
-      "devops",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "html5",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "iso/iec 27001",
-      "iso/iec 27002",
-      "itil",
-      "java",
-      "javascript",
-      "microsserviços",
-      "oauth",
-      "owasp",
-      "php",
-      "pmbok",
-      "postgresql",
-      "rup",
-      "rest",
-      "scrum",
-      "sql",
-      "spring",
-      "springboot",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "tdd",
-      "testes de software",
-      "aprendizado de máquina",
-      "criptografia",
-      "docker",
-      "kubernetes",
-      "orientação a objetos"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/conab-divulga-retificacao-de-concurso-publico-com-403-vagas",
-    "job": "programador"
-  },
-  {
-    "title": "Exército Brasileiro retifica edital com 168 vagas para Curso de Formação de Oficiais do Serviço de Saúde",
-    "date": "20/06/2025",
-    "materias": [
-      "php",
-      "rup",
-      "rest"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-retifica-edital-com-168-vagas-para-curso-de-formacao-de-oficiais-do-servico-de-saude"
-  },
-  {
-    "title": "Exército Brasileiro abre Concurso de admissão para Curso de Formação de Oficiais",
-    "date": "20/06/2025",
-    "materias": [
-      "engenharia de software",
-      "php",
-      "rup",
-      "rest"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-concurso-de-admissao-para-curso-de-formacao-de-oficiais"
-  },
-  {
-    "title": "Exército Brasileiro abre concurso para a Escola de Sargentos das Armas",
-    "date": "18/05/2025",
-    "materias": [
-      "php",
-      "rup",
-      "rest",
-      "soap"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-abre-concurso-para-a-escola-de-sargentos-das-armas"
-  },
-  {
-    "title": "Grupo Hospitalar Conceição - RS promove dois Concursos Públicos",
-    "date": "17/06/2025",
-    "materias": [
-      "banco de dados",
-      "data warehouse",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "iso 27001",
-      "itil",
-      "java",
-      "javascript",
-      "mysql",
-      "olap",
-      "oracle",
-      "php",
-      "qualidade de software",
-      "rup",
-      "rest",
-      "scrum",
-      "sql",
-      "tcp",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-promove-dois-concursos-publicos",
-    "job": "programador"
-  },
-  {
-    "title": "Concurso Público da Marinha do Brasil para Operação de Submarinos é anunciado",
-    "date": "09 a30/07/2025",
-    "materias": [
-      "itil",
-      "olap",
-      "rup",
-      "rest"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/concurso-publico-da-marinha-do-brasil-para-operacao-de-submarinos-e-anunciado"
-  },
-  {
-    "title": "Marinha do Brasil abre 66 vagas em Concurso Público para admissão à Escola Naval em 2025",
-    "date": "12/05/2025",
-    "materias": [
-      "itil",
-      "olap",
-      "rup",
-      "rest"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-66-vagas-em-concurso-publico-para-admissao-a-escola-naval-em-2025"
-  },
-  {
-    "title": "Marinha do Brasil abre Inscrições para Escolas de Formação de Oficiais",
-    "date": "02/06/2025",
-    "materias": [
-      "itil",
-      "olap",
-      "rup",
-      "rest"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-inscricoes-para-escolas-de-formacao-de-oficiais"
-  },
-  {
-    "title": "Polícia Federal informa abertura de Concurso Público com 1.000 vagas",
-    "date": "13/06/2025",
-    "materias": [
-      "banco de dados",
-      "big data",
-      "cloud",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "jsp",
-      "machine learning",
-      "nosql",
-      "oauth",
-      "olap",
-      "owasp",
-      "sgd/me nº 94",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "aprendizado de máquina",
-      "criptografia",
-      "governança de ti",
-      "docker",
-      "kubernetes"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "ANPD divulga edital de Processo Seletivo com salários de até R$ 9 mil",
-    "date": "15/06/2025",
-    "materias": [
-      "jsp",
-      "pmbok",
-      "aprendizado de máquina"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/anpd-divulga-edital-de-processo-seletivo-com-salarios-de-ate-9-mil",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "CONAB divulga retificação de Concurso Público com 403 vagas",
-    "date": "15/05/2025",
-    "materias": [
-      "banco de dados",
-      "big data",
-      "ci/cd",
-      "cmmi",
-      "data warehouse",
-      "devops",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "html5",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "microsserviços",
-      "oauth",
-      "owasp",
-      "pmbok",
-      "postgresql",
-      "scrum",
-      "sql",
-      "spring",
-      "springboot",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "tdd",
-      "testes de software",
-      "aprendizado de máquina",
-      "criptografia",
-      "docker",
-      "kubernetes",
-      "orientação a objetos"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/conab-divulga-retificacao-de-concurso-publico-com-403-vagas",
-    "job": "Analista de Tecnologia da Informação"
-  },
-  {
-    "title": "Grupo Hospitalar Conceição - RS promove dois Concursos Públicos",
-    "date": "17/06/2025",
-    "materias": [
-      "banco de dados",
-      "data warehouse",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "mysql",
-      "olap",
-      "oracle",
-      "qualidade de software",
-      "scrum",
-      "sql",
-      "tcp",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-promove-dois-concursos-publicos",
-    "job": "Técnico de Tecnologia da Informação"
-  },
-  {
-    "title": "Polícia Federal reabre edital de Concurso Público com 192 vagas",
-    "date": "18h de23/05/2025",
-    "materias": [
-      "cloud",
-      "inteligência artificial",
-      "jsp",
-      "sql"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/policia-federal-reabre-edital-de-concurso-publico-com-192-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Tribunal de Contas da União divulga Concurso Público para Técnico Federal de Controle Externo",
-    "date": "30/05 a17/06/2025",
-    "materias": [
-      "cloud"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/tribunal-de-contas-da-uniao-divulga-concurso-publico-para-tecnico-federal-de-controle-externo",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "CRC - SP promove Concurso Público com salários de até R$ 11,6 mil",
-    "date": "05/06/2025",
-    "materias": [
-      "banco de dados",
-      "cloud",
-      "html5",
-      "itil",
-      "java",
-      "javascript",
-      "pmbok",
-      "soap",
-      "sql",
-      "sql server",
-      "stored procedure",
-      "tcp",
-      "tcp/ip",
-      "criptografia",
-      "governança de ti"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/crc-sp-promove-concurso-publico-com-salarios-de-ate-11-6-mil",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de São José dos Campos - SP retifica edital de Concurso Público",
-    "date": "12/06/2025",
-    "materias": [
-      "banco de dados",
-      "cloud"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-dos-campos-sp-retifica-edital-de-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Edital de Concurso Público é divulgado pelo TJM - SP",
-    "date": "09/06/2025",
-    "materias": [
-      "banco de dados",
-      "ci/cd",
-      "cloud",
-      "data mining",
-      "data warehouse",
-      "mysql",
-      "oauth",
-      "olap",
-      "owasp",
-      "postgresql",
-      "sql",
-      "sql server",
-      "stored procedure",
-      "tcp",
-      "tcp/ip",
-      "trigger",
-      "web services",
-      "criptografia",
-      "docker",
-      "kubernetes"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/edital-de-concurso-publico-e-divulgado-pelo-tjm-sp",
-    "job": "Analista de banco de dados"
-  },
-  {
-    "title": "Câmara de Irapuru - SP informa abertura de edital de Concurso Público",
-    "date": "08/06/2025",
-    "materias": [
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-irapuru-sp-informa-abertura-de-edital-de-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Câmara de Potim - SP retifica Concurso Público com salários de até R$ 7,7 mil",
-    "date": "01/06/2025",
-    "materias": [
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-potim-sp-retifica-concurso-publico-com-salarios-de-ate-7-7-mil",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "CIOP - SP abre Processo Seletivo com 27 vagas",
-    "date": "01/06/2025",
-    "materias": [
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/ciop-sp-abre-processo-seletivo-com-27-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Processo Seletivo para Analista Desenvolvedor é aberto em Campinas - SP",
-    "date": "02/06/2025",
-    "materias": [
-      "engenharia de software"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-analista-desenvolvedor-e-aberto-em-campinas-sp",
-    "job": "Analista Desenvolvedor"
-  },
-  {
-    "title": "IME abre Concurso para Engenheiros com salário inicial de R$ 8,2 mil",
-    "date": "28/05 a09/07/2025",
-    "materias": [
-      "banco de dados",
-      "engenharia de software",
-      "inteligência artificial",
-      "java",
-      "olap",
-      "react",
-      "sql",
-      "spring",
-      "tcp",
-      "tcp/ip",
-      "aprendizado de máquina"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/ime-abre-concurso-para-engenheiros-com-salario-inicial-de-8-2-mil"
-  },
-  {
-    "title": "Instituto Butantan - SP abre Concurso Público para Pesquisador Científico I",
-    "date": "23/05/2025",
-    "materias": [
-      "big data",
-      "jsp",
-      "spring"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/instituto-butantan-sp-abre-concurso-publico-para-pesquisador-cientifico-i"
-  },
-  {
-    "title": "Prefeitura de Alto Alegre - SP divulga 12 vagas em novo Concurso Público",
-    "date": "08/06/2025",
-    "materias": [
-      "olap",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-alegre-sp-divulga-12-vagas-em-novo-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Irapuã - SP divulga retificação de Concurso Público",
-    "date": "15/06/2025",
-    "materias": [
-      "banco de dados"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irapua-sp-divulga-retificacao-de-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Itatiba - SP retifica Concurso Público com mais de 200 vagas",
-    "date": "Prorrogado até15/05/2025",
-    "materias": [
-      "banco de dados",
-      "cloud",
-      "java",
-      "javascript",
-      "jsp",
-      "olap",
-      "sql",
-      "tcp",
-      "tcp/ip"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Piraju - SP abre inscrições para edital de Concurso Público com 44 vagas",
-    "date": "25/06/2025",
-    "materias": [
-      "banco de dados",
-      "cloud",
-      "java"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piraju-sp-abre-inscricoes-para-edital-de-concurso-publico-com-44-vagas"
-  },
-  {
-    "title": "Prefeitura de Quatá - SP divulga retificação de Concurso Público",
-    "date": "11/06/2025",
-    "materias": [
-      "olap",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quata-sp-divulga-retificacao-de-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Quatá - SP abre Processo Seletivo para diferentes níveis de formação",
-    "date": "11/06/2025",
-    "materias": [
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quata-sp-abre-processo-seletivo-para-diferentes-niveis-de-formacao",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Santa Isabel - SP abre Processo Seletivo para profissionais de nível médio",
-    "date": "10/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-isabel-sp-abre-processo-seletivo-para-profissionais-de-nivel-medio",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Teodoro Sampaio - SP abre 39 vagas em novo Concurso Público",
-    "date": "27/05/2025",
-    "materias": [
-      "html5",
-      "java",
-      "javascript",
-      "mysql",
-      "postgresql",
-      "sql",
-      "tcp",
-      "tcp/ip"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-39-vagas-em-novo-concurso-publico",
-    "job": "Técnico em informática"
-  },
-  {
-    "title": "TRT da 2ª Região divulga retificação de Concurso Público para Analista e Técnico Judiciário",
-    "date": "Prorrogado até26/05/2025",
-    "materias": [
-      "banco de dados",
-      "big data",
-      "ci/cd",
-      "cmmi",
-      "cloud",
-      "data mining",
-      "devops",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "html5",
-      "hibernate",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "java",
-      "javascript",
-      "junit",
-      "microsserviços",
-      "mysql",
-      "oauth",
-      "olap",
-      "owasp",
-      "oracle",
-      "pl/sql",
-      "postgresql",
-      "scrum",
-      "soap",
-      "sql",
-      "spring",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "testes de software",
-      "typescript",
-      "web services",
-      "aprendizado de máquina",
-      "criptografia",
-      "node.js",
-      "orientação a objetos"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/trt-da-2-regiao-divulga-retificacao-de-concurso-publico-para-analista-e-tecnico-judiciario",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Duque de Caxias - RJ retifica Concurso Público com 400 vagas para Guarda Civil Municipal",
-    "date": "Prorrogado até09/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-duque-de-caxias-rj-retifica-concurso-publico-com-400-vagas-para-guarda-civil-municipal",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Niterói - RJ retifica Concurso Público com salários de até R$ 12 mil",
-    "date": "Prorrogado até19/06/2025",
-    "materias": [
-      "cmmi",
-      "cobit",
-      "html5",
-      "itil",
-      "java",
-      "javascript",
-      "jsp",
-      "mysql",
-      "olap",
-      "oracle",
-      "pl/sql",
-      "pmbok",
-      "postgresql",
-      "scrum",
-      "soap",
-      "sql",
-      "sql server",
-      "tcp",
-      "tcp/ip",
-      "trigger",
-      "webapi",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-niteroi-rj-retifica-concurso-publico-com-salarios-de-ate-12-mil"
-  },
-  {
-    "title": "UENF - RJ abre inscrições para 158 vagas em novo Concurso Público retificado",
-    "date": "11/06/2025",
-    "materias": [
-      "banco de dados",
-      "big data",
-      "cmmi",
-      "cobit",
-      "cloud",
-      "data mining",
-      "data warehouse",
-      "design patterns",
-      "devops",
-      "hibernate",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "microsserviços",
-      "mysql",
-      "oauth",
-      "olap",
-      "pmbok",
-      "postgresql",
-      "scrum",
-      "sql",
-      "sql server",
-      "spring",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "tdd",
-      "aprendizado de máquina",
-      "governança de ti",
-      "docker",
-      "kubernetes"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/uenf-rj-abre-inscricoes-para-158-vagas-em-novo-concurso-publico-retificado",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "FCRB - RJ retifica três Concursos Públicos com salários de até R$ 14,5 mil",
-    "date": "12/05/2025",
-    "materias": [
-      "banco de dados",
-      "cobit",
-      "devops",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "itil",
-      "machine learning",
-      "mysql",
-      "oauth",
-      "owasp",
-      "pmbok",
-      "postgresql",
-      "sgd/me nº 94",
-      "sql",
-      "sql server",
-      "tcp",
-      "tcp/ip",
-      "criptografia",
-      "governança de ti"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/fcrb-rj-retifica-tres-concursos-publicos-com-salarios-de-ate-14-5-mil",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Niterói PREV - RJ divulga Concurso Público com salários de até R$ 12,9 mil",
-    "date": "22/05/2025",
-    "materias": [
-      "banco de dados",
-      "cobit",
-      "cloud",
-      "itil",
-      "pmbok",
-      "scrum",
-      "tcp",
-      "tcp/ip",
-      "criptografia",
-      "governança de ti"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/niteroi-prev-rj-divulga-concurso-publico-com-salarios-de-ate-12-9-mil",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "UFF - RJ promove Concurso Público com 105 vagas",
-    "date": "09/06 a07/07/2025",
-    "materias": [
-      "banco de dados"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/uff-rj-promove-concurso-publico-com-105-vagas",
-    "job": "Técnico de Tecnologia da Informação"
-  },
-  {
-    "title": "Câmara de Viçosa - MG retifica Concurso Público com 13 vagas",
-    "date": "12/06 a14/07/2025",
-    "materias": [
-      "banco de dados",
-      "mysql",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-vicosa-mg-retifica-concurso-publico-com-13-vagas",
-    "job": "Analista de Tecnologia da Informação"
-  },
-  {
-    "title": "IFMG abre inscrições para três Concursos Públicos",
-    "date": "30/06/2025",
-    "materias": [
-      "banco de dados",
-      "tcp",
-      "tcp/ip",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-inscricoes-para-tres-concursos-publicos",
-    "job": "Analista de Tecnologia da Informação"
-  },
-  {
-    "title": "Prefeitura de Serrania - MG retifica dois Concursos Públicos com 47 vagas",
-    "date": "Reaberto até23/06/2025",
-    "materias": [
-      "banco de dados",
-      "sql",
-      "tcp",
-      "tcp/ip"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas",
-    "job": "Técnico de informática"
-  },
-  {
-    "title": "Câmara de Miradouro - MG realiza um novo Concurso Público",
-    "date": "26/06 a26/07/2025",
-    "materias": [
-      "banco de dados"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-miradouro-mg-realiza-um-novo-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Câmara de Piedade de Caratinga - MG divulga Concurso Público com salários de até R$ 4,7 mil",
-    "date": "24/06/2025",
-    "materias": [
-      "arquitetura de software",
-      "banco de dados",
-      "mysql",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-piedade-de-caratinga-mg-divulga-concurso-publico-com-salarios-de-ate-4-7-mil",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Câmara de Pompéu - MG promove Concurso Público para Agente Administrativo e Assistente Social",
-    "date": "21/07 a19/08/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-pompeu-mg-promove-concurso-publico-para-agente-administrativo-e-assistente-social",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Câmara de Volta Grande - MG promove Concurso Público para Auxiliar de Limpeza e Recepcionista",
-    "date": "25/06 a24/07/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-volta-grande-mg-promove-concurso-publico-para-auxiliar-de-limpeza-e-recepcionista",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Andradas - MG abre Processo Seletivo com salários de até R$ 19,4 mil",
-    "date": "02/06/2025",
-    "materias": [
-      "banco de dados"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-abre-processo-seletivo-com-salarios-de-ate-19-4-mil",
-    "job": "Técnico em informática"
-  },
-  {
-    "title": "Prefeitura de Arantina - MG abre 60 vagas em novo Concurso Público",
-    "date": "25/06 a24/07/2025",
-    "materias": [
-      "banco de dados"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arantina-mg-abre-60-vagas-em-novo-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Itamarati de Minas - MG divulga Concurso Público com dez vagas",
-    "date": "05/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itamarati-de-minas-mg-divulga-concurso-publico-com-dez-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Jacuí - MG retifica dois Concursos Públicos com 30 vagas",
-    "date": "16/06 a15/07/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacui-mg-retifica-dois-concursos-publicos-com-30-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Japaraíba - MG reabre inscrições para Concurso Público",
-    "date": "Reaberto até15/07/2025",
-    "materias": [
-      "cloud",
-      "inteligência artificial",
-      "tcp"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-japaraiba-mg-reabre-inscricoes-para-concurso-publico"
-  },
-  {
-    "title": "Prefeitura de Santa Cruz de Minas - MG promove Concurso Público com 54 vagas",
-    "date": "11/08 a10/09/2025",
-    "materias": [
-      "big data",
-      "inteligência artificial",
-      "olap"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-de-minas-mg-promove-concurso-publico-com-54-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Santo Antônio do Monte - MG divulga Processo Seletivo para profissionais de nível superior",
-    "date": "30/05/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-monte-mg-divulga-processo-seletivo-para-profissionais-de-nivel-superior",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Sem Peixe - MG retifica Concurso Público com 85 vagas",
-    "date": "19/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sem-peixe-mg-retifica-concurso-publico-com-85-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Vermelho Novo - MG publica Concurso Público com 74 vagas",
-    "date": "30/06 a31/07/2025",
-    "materias": [
-      "banco de dados",
-      "tcp",
-      "tcp/ip",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vermelho-novo-mg-publica-concurso-publico-com-74-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "TRF 4ª Região prorroga inscrições para Concurso Público",
-    "date": "Prorrogado até16/05/2025",
-    "materias": [
-      "arquitetura de software",
-      "banco de dados",
-      "big data",
-      "ci/cd",
-      "cmmi",
-      "cobit",
-      "cloud",
-      "devops",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "html5",
-      "hibernate",
-      "infraestrutura de ti",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "junit",
-      "low-code",
-      "machine learning",
-      "microsserviços",
-      "no-code",
-      "oauth",
-      "owasp",
-      "pmbok",
-      "qualidade de software",
-      "react",
-      "scrum",
-      "soap",
-      "sql",
-      "spring",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "typescript",
-      "aprendizado de máquina",
-      "governança de ti",
-      "docker",
-      "kubernetes",
-      "orientação a objetos"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/trf-4-regiao-prorroga-inscricoes-para-concurso-publico",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "PM - PR abre inscrições para edital de Concurso Público retificado com 2 mil vagas",
-    "date": "Prorrogado até19/05/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/pm-pr-abre-inscricoes-para-edital-de-concurso-publico-retificado-com-2-mil-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Prefeitura de Formosa do Oeste - PR promove Concurso Público com 29 vagas",
-    "date": "29/05 a17/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-formosa-do-oeste-pr-promove-concurso-publico-com-29-vagas",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Novo Concurso Público em Iracema do Oeste - PR oferece 32 vagas",
-    "date": "30/06/2025",
-    "materias": [
-      "banco de dados",
-      "java",
-      "javascript",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/novo-concurso-publico-em-iracema-do-oeste-pr-oferece-32-vagas",
-    "job": "Técnico em informática"
-  },
-  {
-    "title": "Prefeitura de Paranavaí - PR divulga três editais de Concursos Públicos",
-    "date": "25/05/2025",
-    "materias": [
-      "banco de dados",
-      "engenharia de software",
-      "inteligência artificial",
-      "criptografia"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paranavai-pr-divulga-tres-editais-de-concursos-publicos",
-    "job": "Segurança da Informação"
-  },
-  {
-    "title": "Polícia Federal informa abertura de Concurso Público com 1.000 vagas",
-    "date": "13/06/2025",
+    "start_date": "13/06/2025",
+    "end_date": null,
     "materias": [
       "inteligência artificial",
       "itil",
@@ -964,11 +21,13 @@
       "docker",
       "kubernetes"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas"
   },
   {
     "title": "CONAB divulga retificação de Concurso Público com 403 vagas",
-    "date": "15/05/2025",
+    "start_date": "15/05/2025",
+    "end_date": null,
     "materias": [
       "ci/cd",
       "cmmi",
@@ -1000,12 +59,13 @@
       "kubernetes",
       "orientação a objetos"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/conab-divulga-retificacao-de-concurso-publico-com-403-vagas",
-    "job": "Analista de Tecnologia da Informação"
+    "job": "Analista de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/conab-divulga-retificacao-de-concurso-publico-com-403-vagas"
   },
   {
     "title": "Grupo Hospitalar Conceição - RS promove dois Concursos Públicos",
-    "date": "17/06/2025",
+    "start_date": "17/06/2025",
+    "end_date": null,
     "materias": [
       "data warehouse",
       "engenharia de requisitos",
@@ -1022,12 +82,13 @@
       "sql",
       "tcp"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-promove-dois-concursos-publicos",
-    "job": "Técnico de Tecnologia da Informação"
+    "job": "Técnico de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-promove-dois-concursos-publicos"
   },
   {
     "title": "CRC - SP promove Concurso Público com salários de até R$ 11,6 mil",
-    "date": "05/06/2025",
+    "start_date": "05/06/2025",
+    "end_date": null,
     "materias": [
       "html5",
       "itil",
@@ -1042,11 +103,13 @@
       "tcp/ip",
       "governança de ti"
     ],
+    "job": "Analista de Desenvolvimento",
     "url": "https://www.pciconcursos.com.br/noticias/crc-sp-promove-concurso-publico-com-salarios-de-ate-11-6-mil"
   },
   {
     "title": "Edital de Concurso Público é divulgado pelo TJM - SP",
-    "date": "09/06/2025",
+    "start_date": "09/06/2025",
+    "end_date": null,
     "materias": [
       "ci/cd",
       "data mining",
@@ -1065,21 +128,23 @@
       "docker",
       "kubernetes"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/edital-de-concurso-publico-e-divulgado-pelo-tjm-sp",
-    "job": "Analista de banco de dados"
+    "job": "Analista de banco de dados",
+    "url": "https://www.pciconcursos.com.br/noticias/edital-de-concurso-publico-e-divulgado-pelo-tjm-sp"
   },
   {
     "title": "Processo Seletivo para Analista Desenvolvedor é aberto em Campinas - SP",
-    "date": "02/06/2025",
+    "start_date": "02/06/2025",
+    "end_date": null,
     "materias": [
       "engenharia de software"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-analista-desenvolvedor-e-aberto-em-campinas-sp",
-    "job": "Analista Desenvolvedor"
+    "job": "Analista Desenvolvedor",
+    "url": "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-analista-desenvolvedor-e-aberto-em-campinas-sp"
   },
   {
     "title": "IME abre Concurso para Engenheiros com salário inicial de R$ 8,2 mil",
-    "date": "28/05 a09/07/2025",
+    "start_date": "09/07/2025",
+    "end_date": null,
     "materias": [
       "engenharia de software",
       "inteligência artificial",
@@ -1090,11 +155,13 @@
       "tcp/ip",
       "aprendizado de máquina"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/ime-abre-concurso-para-engenheiros-com-salario-inicial-de-8-2-mil"
   },
   {
     "title": "Prefeitura de Itatiba - SP retifica Concurso Público com mais de 200 vagas",
-    "date": "Prorrogado até15/05/2025",
+    "start_date": "15/05/2025",
+    "end_date": null,
     "materias": [
       "java",
       "javascript",
@@ -1102,12 +169,13 @@
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas",
-    "job": "Técnico de informática"
+    "job": "Técnico de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatiba-sp-retifica-concurso-publico-com-mais-de-200-vagas"
   },
   {
     "title": "Prefeitura de Teodoro Sampaio - SP abre 39 vagas em novo Concurso Público",
-    "date": "27/05/2025",
+    "start_date": "27/05/2025",
+    "end_date": null,
     "materias": [
       "html5",
       "java",
@@ -1118,12 +186,13 @@
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-39-vagas-em-novo-concurso-publico",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-39-vagas-em-novo-concurso-publico"
   },
   {
     "title": "TRT da 2ª Região divulga retificação de Concurso Público para Analista e Técnico Judiciário",
-    "date": "Prorrogado até26/05/2025",
+    "start_date": "26/05/2025",
+    "end_date": null,
     "materias": [
       "ci/cd",
       "cmmi",
@@ -1158,11 +227,13 @@
       "node.js",
       "orientação a objetos"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/trt-da-2-regiao-divulga-retificacao-de-concurso-publico-para-analista-e-tecnico-judiciario"
   },
   {
     "title": "Prefeitura de Niterói - RJ retifica Concurso Público com salários de até R$ 12 mil",
-    "date": "Prorrogado até19/06/2025",
+    "start_date": "19/06/2025",
+    "end_date": null,
     "materias": [
       "cmmi",
       "cobit",
@@ -1184,11 +255,13 @@
       "trigger",
       "webapi"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-niteroi-rj-retifica-concurso-publico-com-salarios-de-ate-12-mil"
   },
   {
     "title": "UENF - RJ abre inscrições para 158 vagas em novo Concurso Público retificado",
-    "date": "11/06/2025",
+    "start_date": "11/06/2025",
+    "end_date": null,
     "materias": [
       "cmmi",
       "cobit",
@@ -1217,12 +290,13 @@
       "docker",
       "kubernetes"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/uenf-rj-abre-inscricoes-para-158-vagas-em-novo-concurso-publico-retificado",
-    "job": "Analista de Sistemas"
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/uenf-rj-abre-inscricoes-para-158-vagas-em-novo-concurso-publico-retificado"
   },
   {
     "title": "FCRB - RJ retifica três Concursos Públicos com salários de até R$ 14,5 mil",
-    "date": "12/05/2025",
+    "start_date": "12/05/2025",
+    "end_date": null,
     "materias": [
       "cobit",
       "devops",
@@ -1242,11 +316,13 @@
       "tcp/ip",
       "governança de ti"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/fcrb-rj-retifica-tres-concursos-publicos-com-salarios-de-ate-14-5-mil"
   },
   {
     "title": "Niterói PREV - RJ divulga Concurso Público com salários de até R$ 12,9 mil",
-    "date": "22/05/2025",
+    "start_date": "22/05/2025",
+    "end_date": null,
     "materias": [
       "cobit",
       "itil",
@@ -1256,52 +332,59 @@
       "tcp/ip",
       "governança de ti"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/niteroi-prev-rj-divulga-concurso-publico-com-salarios-de-ate-12-9-mil",
-    "job": "Analista de Sistemas"
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/niteroi-prev-rj-divulga-concurso-publico-com-salarios-de-ate-12-9-mil"
   },
   {
     "title": "UFF - RJ promove Concurso Público com 105 vagas",
-    "date": "09/06 a07/07/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/uff-rj-promove-concurso-publico-com-105-vagas",
-    "job": "Técnico de Tecnologia da Informação"
+    "start_date": "07/07/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/uff-rj-promove-concurso-publico-com-105-vagas"
   },
   {
     "title": "Câmara de Viçosa - MG retifica Concurso Público com 13 vagas",
-    "date": "12/06 a14/07/2025",
+    "start_date": "14/07/2025",
+    "end_date": null,
     "materias": [
       "mysql",
       "sql",
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-vicosa-mg-retifica-concurso-publico-com-13-vagas",
-    "job": "Analista de Tecnologia da Informação"
+    "job": "Analista de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-vicosa-mg-retifica-concurso-publico-com-13-vagas"
   },
   {
     "title": "IFMG abre inscrições para três Concursos Públicos",
-    "date": "30/06/2025",
+    "start_date": "30/06/2025",
+    "end_date": null,
     "materias": [
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-inscricoes-para-tres-concursos-publicos",
-    "job": "Analista de Tecnologia da Informação"
+    "job": "Analista de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-inscricoes-para-tres-concursos-publicos"
   },
   {
     "title": "Prefeitura de Serrania - MG retifica dois Concursos Públicos com 47 vagas",
-    "date": "Reaberto até23/06/2025",
+    "start_date": "23/06/2025",
+    "end_date": null,
     "materias": [
       "sql",
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas",
-    "job": "Técnico de informática"
+    "job": "Técnico de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas"
   },
   {
     "title": "Câmara de Piedade de Caratinga - MG divulga Concurso Público com salários de até R$ 4,7 mil",
-    "date": "24/06/2025",
+    "start_date": "24/06/2025",
+    "end_date": null,
     "materias": [
       "arquitetura de software",
       "mysql",
@@ -1309,29 +392,34 @@
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/camara-de-piedade-de-caratinga-mg-divulga-concurso-publico-com-salarios-de-ate-4-7-mil",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-piedade-de-caratinga-mg-divulga-concurso-publico-com-salarios-de-ate-4-7-mil"
   },
   {
     "title": "Prefeitura de Andradas - MG abre Processo Seletivo com salários de até R$ 19,4 mil",
-    "date": "02/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-abre-processo-seletivo-com-salarios-de-ate-19-4-mil",
-    "job": "Técnico em informática"
+    "start_date": "02/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-abre-processo-seletivo-com-salarios-de-ate-19-4-mil"
   },
   {
     "title": "Prefeitura de Vermelho Novo - MG publica Concurso Público com 74 vagas",
-    "date": "30/06 a31/07/2025",
+    "start_date": "31/07/2025",
+    "end_date": null,
     "materias": [
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vermelho-novo-mg-publica-concurso-publico-com-74-vagas",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vermelho-novo-mg-publica-concurso-publico-com-74-vagas"
   },
   {
     "title": "TRF 4ª Região prorroga inscrições para Concurso Público",
-    "date": "Prorrogado até16/05/2025",
+    "start_date": "16/05/2025",
+    "end_date": null,
     "materias": [
       "arquitetura de software",
       "ci/cd",
@@ -1370,11 +458,13 @@
       "kubernetes",
       "orientação a objetos"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/trf-4-regiao-prorroga-inscricoes-para-concurso-publico"
   },
   {
     "title": "Novo Concurso Público em Iracema do Oeste - PR oferece 32 vagas",
-    "date": "30/06/2025",
+    "start_date": "30/06/2025",
+    "end_date": null,
     "materias": [
       "java",
       "javascript",
@@ -1382,22 +472,24 @@
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/novo-concurso-publico-em-iracema-do-oeste-pr-oferece-32-vagas",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/novo-concurso-publico-em-iracema-do-oeste-pr-oferece-32-vagas"
   },
   {
     "title": "Prefeitura de Paranavaí - PR divulga três editais de Concursos Públicos",
-    "date": "25/05/2025",
+    "start_date": "25/05/2025",
+    "end_date": null,
     "materias": [
       "engenharia de software",
       "inteligência artificial"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paranavai-pr-divulga-tres-editais-de-concursos-publicos",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paranavai-pr-divulga-tres-editais-de-concursos-publicos"
   },
   {
     "title": "Prefeitura de São João - PR retifica edital de Concurso Público",
-    "date": "05/06/2025",
+    "start_date": "05/06/2025",
+    "end_date": null,
     "materias": [
       "java",
       "javascript",
@@ -1405,19 +497,23 @@
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-pr-retifica-edital-de-concurso-publico",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-pr-retifica-edital-de-concurso-publico"
   },
   {
     "title": "IPE Saúde - RS divulga Processo Seletivo com salários de até R$ 10 mil",
-    "date": "30/05/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/ipe-saude-rs-divulga-processo-seletivo-com-salarios-de-ate-10-mil",
-    "job": "Analista de Sistemas"
+    "start_date": "30/05/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/ipe-saude-rs-divulga-processo-seletivo-com-salarios-de-ate-10-mil"
   },
   {
     "title": "Prefeitura de Lajeado - RS publica editais de Concurso Público e Processo Seletivo",
-    "date": "26/06/2025",
+    "start_date": "26/06/2025",
+    "end_date": null,
     "materias": [
       "arquitetura de software",
       "cmmi",
@@ -1436,19 +532,23 @@
       "tcp/ip",
       "web services"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-publica-editais-de-concurso-publico-e-processo-seletivo",
-    "job": "Analista de Sistemas"
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-publica-editais-de-concurso-publico-e-processo-seletivo"
   },
   {
     "title": "Prefeitura de Mostardas - RS abre Processo Seletivo com salários de até R$ 21,1 mil",
-    "date": "06/06/2025",
-    "materias": [],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mostardas-rs-abre-processo-seletivo-com-salarios-de-ate-21-1-mil",
-    "job": "Técnico em informática"
+    "start_date": "06/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mostardas-rs-abre-processo-seletivo-com-salarios-de-ate-21-1-mil"
   },
   {
     "title": "TRENSURB de Porto Alegre - RS retifica Concurso Público com 64 vagas",
-    "date": "Suspenso",
+    "start_date": null,
+    "end_date": null,
     "materias": [
       "ci/cd",
       "cobit",
@@ -1469,12 +569,395 @@
       "governança de ti",
       "kubernetes"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/trensurb-de-porto-alegre-rs-retifica-concurso-publico-com-64-vagas",
-    "job": "Analista de Sistemas"
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/trensurb-de-porto-alegre-rs-retifica-concurso-publico-com-64-vagas"
+  },
+  {
+    "title": "Polícia Federal informa abertura de Concurso Público com 1.000 vagas",
+    "start_date": "13/06/2025",
+    "end_date": null,
+    "materias": [
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "machine learning",
+      "nosql",
+      "oauth",
+      "owasp",
+      "sgd/me nº 94",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "aprendizado de máquina",
+      "governança de ti",
+      "docker",
+      "kubernetes"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas"
+  },
+  {
+    "title": "Grupo Hospitalar Conceição - RS promove dois Concursos Públicos",
+    "start_date": "17/06/2025",
+    "end_date": null,
+    "materias": [
+      "data warehouse",
+      "engenharia de requisitos",
+      "engenharia de software",
+      "infraestrutura de ti",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "oracle",
+      "qualidade de software",
+      "scrum",
+      "sql",
+      "tcp"
+    ],
+    "job": "Técnico de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-promove-dois-concursos-publicos"
+  },
+  {
+    "title": "CRC - SP promove Concurso Público com salários de até R$ 11,6 mil",
+    "start_date": "05/06/2025",
+    "end_date": null,
+    "materias": [
+      "html5",
+      "itil",
+      "java",
+      "javascript",
+      "pmbok",
+      "soap",
+      "sql",
+      "sql server",
+      "stored procedure",
+      "tcp",
+      "tcp/ip",
+      "governança de ti"
+    ],
+    "job": "Analista de Desenvolvimento",
+    "url": "https://www.pciconcursos.com.br/noticias/crc-sp-promove-concurso-publico-com-salarios-de-ate-11-6-mil"
+  },
+  {
+    "title": "Edital de Concurso Público é divulgado pelo TJM - SP",
+    "start_date": "09/06/2025",
+    "end_date": null,
+    "materias": [
+      "ci/cd",
+      "data mining",
+      "data warehouse",
+      "mysql",
+      "oauth",
+      "owasp",
+      "postgresql",
+      "sql",
+      "sql server",
+      "stored procedure",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "web services",
+      "docker",
+      "kubernetes"
+    ],
+    "job": "Analista de banco de dados",
+    "url": "https://www.pciconcursos.com.br/noticias/edital-de-concurso-publico-e-divulgado-pelo-tjm-sp"
+  },
+  {
+    "title": "Processo Seletivo para Analista Desenvolvedor é aberto em Campinas - SP",
+    "start_date": "02/06/2025",
+    "end_date": null,
+    "materias": [
+      "engenharia de software"
+    ],
+    "job": "Analista Desenvolvedor",
+    "url": "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-analista-desenvolvedor-e-aberto-em-campinas-sp"
+  },
+  {
+    "title": "IME abre Concurso para Engenheiros com salário inicial de R$ 8,2 mil",
+    "start_date": "09/07/2025",
+    "end_date": null,
+    "materias": [
+      "engenharia de software",
+      "inteligência artificial",
+      "java",
+      "react",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "aprendizado de máquina"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/ime-abre-concurso-para-engenheiros-com-salario-inicial-de-8-2-mil"
+  },
+  {
+    "title": "Prefeitura de Teodoro Sampaio - SP abre 39 vagas em novo Concurso Público",
+    "start_date": "27/05/2025",
+    "end_date": null,
+    "materias": [
+      "html5",
+      "java",
+      "javascript",
+      "mysql",
+      "postgresql",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-abre-39-vagas-em-novo-concurso-publico"
+  },
+  {
+    "title": "Prefeitura de Niterói - RJ retifica Concurso Público com salários de até R$ 12 mil",
+    "start_date": "19/06/2025",
+    "end_date": null,
+    "materias": [
+      "cmmi",
+      "cobit",
+      "html5",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "pmbok",
+      "postgresql",
+      "scrum",
+      "soap",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "webapi"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-niteroi-rj-retifica-concurso-publico-com-salarios-de-ate-12-mil"
+  },
+  {
+    "title": "UENF - RJ abre inscrições para 158 vagas em novo Concurso Público retificado",
+    "start_date": "11/06/2025",
+    "end_date": null,
+    "materias": [
+      "cmmi",
+      "cobit",
+      "data mining",
+      "data warehouse",
+      "design patterns",
+      "devops",
+      "hibernate",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "microsserviços",
+      "mysql",
+      "oauth",
+      "pmbok",
+      "postgresql",
+      "scrum",
+      "sql",
+      "sql server",
+      "swagger",
+      "tcp",
+      "tcp/ip",
+      "tdd",
+      "aprendizado de máquina",
+      "governança de ti",
+      "docker",
+      "kubernetes"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/uenf-rj-abre-inscricoes-para-158-vagas-em-novo-concurso-publico-retificado"
+  },
+  {
+    "title": "UFF - RJ promove Concurso Público com 105 vagas",
+    "start_date": "07/07/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/uff-rj-promove-concurso-publico-com-105-vagas"
+  },
+  {
+    "title": "Câmara de Viçosa - MG retifica Concurso Público com 13 vagas",
+    "start_date": "14/07/2025",
+    "end_date": null,
+    "materias": [
+      "mysql",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Analista de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-vicosa-mg-retifica-concurso-publico-com-13-vagas"
+  },
+  {
+    "title": "IFMG abre inscrições para três Concursos Públicos",
+    "start_date": "30/06/2025",
+    "end_date": null,
+    "materias": [
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Analista de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/ifmg-abre-inscricoes-para-tres-concursos-publicos"
+  },
+  {
+    "title": "Prefeitura de Serrania - MG retifica dois Concursos Públicos com 47 vagas",
+    "start_date": "23/06/2025",
+    "end_date": null,
+    "materias": [
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serrania-mg-retifica-dois-concursos-publicos-com-47-vagas"
+  },
+  {
+    "title": "Câmara de Piedade de Caratinga - MG divulga Concurso Público com salários de até R$ 4,7 mil",
+    "start_date": "24/06/2025",
+    "end_date": null,
+    "materias": [
+      "arquitetura de software",
+      "mysql",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-piedade-de-caratinga-mg-divulga-concurso-publico-com-salarios-de-ate-4-7-mil"
+  },
+  {
+    "title": "Prefeitura de Andradas - MG abre Processo Seletivo com salários de até R$ 19,4 mil",
+    "start_date": "02/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-abre-processo-seletivo-com-salarios-de-ate-19-4-mil"
+  },
+  {
+    "title": "Prefeitura de Vermelho Novo - MG publica Concurso Público com 74 vagas",
+    "start_date": "31/07/2025",
+    "end_date": null,
+    "materias": [
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vermelho-novo-mg-publica-concurso-publico-com-74-vagas"
+  },
+  {
+    "title": "Novo Concurso Público em Iracema do Oeste - PR oferece 32 vagas",
+    "start_date": "30/06/2025",
+    "end_date": null,
+    "materias": [
+      "java",
+      "javascript",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/novo-concurso-publico-em-iracema-do-oeste-pr-oferece-32-vagas"
+  },
+  {
+    "title": "Prefeitura de São João - PR retifica edital de Concurso Público",
+    "start_date": "05/06/2025",
+    "end_date": null,
+    "materias": [
+      "java",
+      "javascript",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-pr-retifica-edital-de-concurso-publico"
+  },
+  {
+    "title": "IPE Saúde - RS divulga Processo Seletivo com salários de até R$ 10 mil",
+    "start_date": "30/05/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/ipe-saude-rs-divulga-processo-seletivo-com-salarios-de-ate-10-mil"
+  },
+  {
+    "title": "Prefeitura de Lajeado - RS publica editais de Concurso Público e Processo Seletivo",
+    "start_date": "26/06/2025",
+    "end_date": null,
+    "materias": [
+      "arquitetura de software",
+      "cmmi",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "postgresql",
+      "qualidade de software",
+      "scrum",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "web services"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-publica-editais-de-concurso-publico-e-processo-seletivo"
+  },
+  {
+    "title": "Prefeitura de Mostardas - RS abre Processo Seletivo com salários de até R$ 21,1 mil",
+    "start_date": "06/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mostardas-rs-abre-processo-seletivo-com-salarios-de-ate-21-1-mil"
+  },
+  {
+    "title": "TRENSURB de Porto Alegre - RS retifica Concurso Público com 64 vagas",
+    "start_date": null,
+    "end_date": null,
+    "materias": [
+      "ci/cd",
+      "cobit",
+      "devops",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "nosql",
+      "pmbok",
+      "postgresql",
+      "scrum",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "web services",
+      "governança de ti",
+      "kubernetes"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/trensurb-de-porto-alegre-rs-retifica-concurso-publico-com-64-vagas"
   },
   {
     "title": "Prefeitura de Painel - SC publica Processo Seletivo com salários de até R$ 21,5 mil",
-    "date": "09/06/2025",
+    "start_date": "09/06/2025",
+    "end_date": null,
     "materias": [
       "html5",
       "java",
@@ -1486,32 +969,36 @@
       "web services",
       "docker"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-painel-sc-publica-processo-seletivo-com-salarios-de-ate-21-5-mil",
-    "job": "Analista de informática"
+    "job": "Analista de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-painel-sc-publica-processo-seletivo-com-salarios-de-ate-21-5-mil"
   },
   {
     "title": "Prefeitura de Porto Belo - SC publica retificação de Processo Seletivo",
-    "date": "12/06/2025",
+    "start_date": "12/06/2025",
+    "end_date": null,
     "materias": [
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-belo-sc-publica-retificacao-de-processo-seletivo",
-    "job": "Técnico em informática"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-belo-sc-publica-retificacao-de-processo-seletivo"
   },
   {
     "title": "Samae de São Bento do Sul - SC publica edital de Concurso Público",
-    "date": "01/07/2025",
+    "start_date": "01/07/2025",
+    "end_date": null,
     "materias": [
       "sql",
       "tcp",
       "tcp/ip"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/samae-de-sao-bento-do-sul-sc-publica-edital-de-concurso-publico"
   },
   {
     "title": "SEE-GO suspende Concurso Público para Auditor-Fiscal",
-    "date": "Suspenso",
+    "start_date": null,
+    "end_date": null,
     "materias": [
       "data lake",
       "data mining",
@@ -1524,181 +1011,32 @@
       "scrum",
       "sql"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/see-go-suspende-concurso-publico-para-auditor-fiscal"
   },
   {
-    "title": "UFMS informa abertura de Concurso Público com diversas vagas",
-    "date": "25/05/2025",
-    "materias": [
-      "ci/cd",
-      "clean code",
-      "data mining",
-      "design patterns",
-      "entidade-relacionamento",
-      "infraestrutura de ti",
-      "itil",
-      "java",
-      "javascript",
-      "owasp",
-      "pmbok",
-      "postgresql",
-      "sql",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "tdd",
-      "testes de software",
-      "web services",
-      "governança de ti",
-      "docker",
-      "kubernetes",
-      "orientação a objetos"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/ufms-informa-abertura-de-concurso-publico-com-diversas-vagas"
-  },
-  {
     "title": "CRO - AC promove Concurso Público com salários de até R$ 4 mil",
-    "date": "05/06/2025",
+    "start_date": "05/06/2025",
+    "end_date": null,
     "materias": [
       "inteligência artificial",
       "tcp",
       "tcp/ip"
     ],
+    "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/cro-ac-promove-concurso-publico-com-salarios-de-ate-4-mil"
   },
   {
     "title": "Prefeitura de Barra do Corda - MA retifica dois editais de Concurso Público",
-    "date": "16/06/2025",
+    "start_date": "16/06/2025",
+    "end_date": null,
     "materias": [
       "java",
       "javascript",
       "tcp",
       "tcp/ip"
     ],
-    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-corda-ma-retifica-dois-editais-de-concurso-publico",
-    "job": "Técnico em informática"
-  },
-  {
-    "title": "CRMV abre Concurso Público em Teresina - PI",
-    "date": "22/06/2025",
-    "materias": [
-      "cmmi",
-      "cobit",
-      "data mining",
-      "engenharia de requisitos",
-      "engenharia de software",
-      "infraestrutura de ti",
-      "itil",
-      "java",
-      "mysql",
-      "oracle",
-      "pl/sql",
-      "pmbok",
-      "qualidade de software",
-      "scrum",
-      "sgd/me nº 94",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "testes de software",
-      "trigger",
-      "governança de ti"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/crmv-abre-concurso-publico-em-teresina-pi",
-    "job": "Analista de Suporte"
-  },
-  {
-    "title": "MP - PI lança Concurso com 30 vagas",
-    "date": "23/05/2025",
-    "materias": [
-      "ci/cd",
-      "cobit",
-      "design patterns",
-      "devops",
-      "engenharia de requisitos",
-      "extreme programming",
-      "html5",
-      "hibernate",
-      "itil",
-      "java",
-      "javascript",
-      "junit",
-      "microsserviços",
-      "nosql",
-      "oauth",
-      "owasp",
-      "oracle",
-      "pl/sql",
-      "pmbok",
-      "postgresql",
-      "scrum",
-      "sql",
-      "swagger",
-      "tcp",
-      "tcp/ip",
-      "tdd",
-      "testes de software",
-      "typescript",
-      "governança de ti",
-      "docker",
-      "kubernetes"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/mp-pi-lanca-concurso-com-30-vagas"
-  },
-  {
-    "title": "IFRN abre Concurso Público com 45 vagas para Docentes",
-    "date": "03/06/2025",
-    "materias": [
-      "arquitetura de software",
-      "hibernate",
-      "inteligência artificial",
-      "java",
-      "javascript",
-      "microsserviços",
-      "mysql",
-      "nosql",
-      "react",
-      "scrum",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "testes de software",
-      "vue.js",
-      "node.js",
-      "orientação a objetos"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/ifrn-abre-concurso-publico-com-45-vagas-para-docentes"
-  },
-  {
-    "title": "Cremese abre Concurso Público para cadastro reserva e uma vaga em Aracaju - SE",
-    "date": "20/06/2025",
-    "materias": [
-      "arquitetura de software",
-      "design patterns",
-      "devops",
-      "engenharia de software",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "machine learning",
-      "microsserviços",
-      "nosql",
-      "pmbok",
-      "react",
-      "scrum",
-      "soap",
-      "sql",
-      "sql server",
-      "stored procedure",
-      "tcp",
-      "tcp/ip",
-      "testes de software",
-      "vue.js",
-      "governança de ti",
-      "docker"
-    ],
-    "url": "https://www.pciconcursos.com.br/noticias/cremese-abre-concurso-publico-para-cadastro-reserva-e-uma-vaga-em-aracaju-se",
-    "job": "Analista de Sistemas"
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-corda-ma-retifica-dois-editais-de-concurso-publico"
   }
 ]

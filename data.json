@@ -596,5 +596,46 @@
     ],
     "job": "Técnico em informática",
     "url": "https://www.pciconcursos.com.br/noticias/cremam-promove-concurso-publico-com-salarios-de-ate-7-1-mil"
+  },
+  {
+    "title": "Prefeitura de Porangaba - SP informa abertura de dois editais de Concurso Público",
+    "start_date": "03/07/2025",
+    "end_date": null,
+    "materias": [
+      "inteligência artificial",
+      "java",
+      "javascript",
+      "sql",
+      "testes de software"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porangaba-sp-informa-abertura-de-dois-editais-de-concurso-publico"
+  },
+  {
+    "title": "Prefeitura de Teodoro Sampaio - SP prorroga inscrições para Concurso Público",
+    "start_date": "04/06/2025",
+    "end_date": null,
+    "materias": [
+      "html5",
+      "java",
+      "javascript",
+      "mysql",
+      "postgresql",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teodoro-sampaio-sp-prorroga-inscricoes-para-concurso-publico"
+  },
+  {
+    "title": "Prefeitura de Alvorada de Minas - MG abre 69 vagas em novo Processo Seletivo",
+    "start_date": "09/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-de-minas-mg-abre-69-vagas-em-novo-processo-seletivo"
   }
 ]

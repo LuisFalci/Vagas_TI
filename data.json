@@ -686,5 +686,27 @@
     ],
     "job": "Analista de Suporte",
     "url": "https://www.pciconcursos.com.br/noticias/fahece-anuncia-processo-seletivo-no-municipio-de-florianopolis-sc"
+  },
+  {
+    "title": "Fhemig - MG abre duas vagas em novo edital de Processo Seletivo",
+    "start_date": "06/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Analista de Desenvolvimento",
+    "url": "https://www.pciconcursos.com.br/noticias/fhemig-mg-abre-duas-vagas-em-novo-edital-de-processo-seletivo"
+  },
+  {
+    "title": "Prefeitura de Boa Esperança - MG abre Concurso Público com 245 vagas",
+    "start_date": "29/07/2025",
+    "end_date": null,
+    "materias": [
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-esperanca-mg-abre-concurso-publico-com-245-vagas"
   }
 ]

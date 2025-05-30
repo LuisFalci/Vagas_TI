@@ -637,5 +637,54 @@
     ],
     "job": "Técnico de informática",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-de-minas-mg-abre-69-vagas-em-novo-processo-seletivo"
+  },
+  {
+    "title": "Prefeitura de Lajeado - RS divulga retificação de Processo Seletivo",
+    "start_date": "26/06/2025",
+    "end_date": null,
+    "materias": [
+      "arquitetura de software",
+      "cmmi",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "postgresql",
+      "qualidade de software",
+      "scrum",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "web services"
+    ],
+    "job": "Analista de Sistemas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-divulga-retificacao-de-processo-seletivo"
+  },
+  {
+    "title": "Prefeitura de Recreio - MG abre Concurso Público com 34 vagas",
+    "start_date": "29/08/2025",
+    "end_date": null,
+    "materias": [
+      "itil",
+      "java",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-recreio-mg-abre-concurso-publico-com-34-vagas"
+  },
+  {
+    "title": "Fahece anuncia Processo Seletivo no município de Florianópolis - SC",
+    "start_date": "06/06/2025",
+    "end_date": null,
+    "materias": [
+      "sql"
+    ],
+    "job": "Analista de Suporte",
+    "url": "https://www.pciconcursos.com.br/noticias/fahece-anuncia-processo-seletivo-no-municipio-de-florianopolis-sc"
   }
 ]

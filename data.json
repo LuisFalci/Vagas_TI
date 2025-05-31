@@ -708,5 +708,34 @@
     ],
     "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-esperanca-mg-abre-concurso-publico-com-245-vagas"
+  },
+  {
+    "title": "Prefeitura de Pão de Açúcar - AL publica Concurso Público com mais de 100 vagas",
+    "start_date": "03/07/2025",
+    "end_date": null,
+    "materias": [
+      "cobit",
+      "entidade-relacionamento",
+      "itil",
+      "java",
+      "javascript",
+      "microsserviços",
+      "mysql",
+      "owasp",
+      "oracle",
+      "pmbok",
+      "postgresql",
+      "react",
+      "scrum",
+      "soap",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "vue.js",
+      "docker",
+      "kubernetes"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pao-de-acucar-al-publica-concurso-publico-com-mais-de-100-vagas"
   }
 ]

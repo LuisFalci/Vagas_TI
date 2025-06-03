@@ -737,5 +737,136 @@
     ],
     "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pao-de-acucar-al-publica-concurso-publico-com-mais-de-100-vagas"
+  },
+  {
+    "title": "Câmara de Tatuí - SP promove Concurso Público com salários de até R$ 11,2 mil",
+    "start_date": "08/07/2025",
+    "end_date": null,
+    "materias": [
+      "java",
+      "javascript",
+      "mysql",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "node.js"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-tatui-sp-promove-concurso-publico-com-salarios-de-ate-11-2-mil"
+  },
+  {
+    "title": "Prefeitura de Marabá - PA realiza Processo Seletivo com 54 vagas em diversas áreas",
+    "start_date": "06/06/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maraba-pa-realiza-processo-seletivo-com-54-vagas-em-diversas-areas"
+  },
+  {
+    "title": "TCE - PE abre edital de Concurso Público com 36 vagas",
+    "start_date": "03/07/2025",
+    "end_date": null,
+    "materias": [
+      "cobit",
+      "data lake",
+      "devops",
+      "engenharia de software",
+      "inteligência artificial",
+      "itil",
+      "machine learning",
+      "nosql",
+      "scrum",
+      "sql",
+      "trigger"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/tce-pe-abre-edital-de-concurso-publico-com-36-vagas"
+  },
+  {
+    "title": "CRECI lança Concurso Público com 10 vagas em Santa Catarina",
+    "start_date": "30/06/2025",
+    "end_date": null,
+    "materias": [
+      "ci/cd",
+      "cobit",
+      "data lake",
+      "data mining",
+      "design patterns",
+      "devops",
+      "engenharia de requisitos",
+      "engenharia de software",
+      "hibernate",
+      "infraestrutura de ti",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "nosql",
+      "oauth",
+      "owasp",
+      "oracle",
+      "pl/sql",
+      "pmbok",
+      "postgresql",
+      "scrum",
+      "soap",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "tdd",
+      "testes de software",
+      "aprendizado de máquina",
+      "governança de ti",
+      "docker",
+      "kubernetes"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/creci-lanca-concurso-publico-com-10-vagas-em-santa-catarina"
+  },
+  {
+    "title": "Prefeitura de Xaxim - SC abre Processo Seletivo com vagas em diversas áreas",
+    "start_date": "27/06/2025",
+    "end_date": null,
+    "materias": [
+      "html5",
+      "java",
+      "javascript",
+      "soap",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "web services",
+      "docker"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xaxim-sc-abre-processo-seletivo-com-vagas-em-diversas-areas"
+  },
+  {
+    "title": "HCPA - RS abre Processo Seletivo para cadastro de reserva",
+    "start_date": "30/06/2025",
+    "end_date": null,
+    "materias": [
+      "inteligência artificial",
+      "react",
+      "aprendizado de máquina"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/hcpa-rs-abre-processo-seletivo-para-cadastro-de-reserva"
+  },
+  {
+    "title": "Prefeitura de Bom Jardim - PE abre 454 vagas em novo Concurso Público",
+    "start_date": "03/07/2025",
+    "end_date": null,
+    "materias": [
+      "inteligência artificial",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jardim-pe-abre-454-vagas-em-novo-concurso-publico"
   }
 ]

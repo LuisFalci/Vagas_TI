@@ -868,5 +868,65 @@
     ],
     "job": "Cargo não encontrado",
     "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jardim-pe-abre-454-vagas-em-novo-concurso-publico"
+  },
+  {
+    "title": "UFF - RJ divulga retificações de Concurso Público",
+    "start_date": "07/07/2025",
+    "end_date": null,
+    "materias": [
+      "data mining",
+      "data warehouse",
+      "java",
+      "javascript",
+      "mysql",
+      "nosql",
+      "oracle",
+      "soap",
+      "sql",
+      "stored procedure",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "web services",
+      "governança de ti",
+      "orientação a objetos"
+    ],
+    "job": "Técnico de Tecnologia da Informação",
+    "url": "https://www.pciconcursos.com.br/noticias/uff-rj-divulga-retificacoes-de-concurso-publico"
+  },
+  {
+    "title": "Câmara de Mário Campos - MG abre 10 vagas em novo Concurso Público",
+    "start_date": "18/09/2025",
+    "end_date": null,
+    "materias": [
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "job": "Técnico em informática",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-mario-campos-mg-abre-10-vagas-em-novo-concurso-publico"
+  },
+  {
+    "title": "Prefeitura e a Câmara de Dionísio Cerqueira - SC abre dois Concursos Públicos",
+    "start_date": "02/07/2025",
+    "end_date": null,
+    "materias": [
+      "mysql",
+      "postgresql",
+      "sql",
+      "sql server"
+    ],
+    "job": "Cargo não encontrado",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-a-camara-de-dionisio-cerqueira-sc-abre-dois-concursos-publicos"
+  },
+  {
+    "title": "Câmara de Teixeira de Freitas - BA promove Concursos Públicos com salários de até R$ 10 mil",
+    "start_date": "02/07/2025",
+    "end_date": null,
+    "materias": [
+      "Matérias não encontradas"
+    ],
+    "job": "Técnico de informática",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-teixeira-de-freitas-ba-promove-concursos-publicos-com-salarios-de-ate-10-mil"
   }
 ]

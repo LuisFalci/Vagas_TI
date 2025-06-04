@@ -4,23 +4,303 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Concursos TI</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <style>
-    body { font-family: Arial, sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
-    h1 { text-align: center; margin-bottom: 20px; }
-    .container { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; max-width: 1200px; margin: auto; }
-    .card { background: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; display: flex; flex-direction: column; transition: transform 0.2s; }
-    .card:hover { transform: translateY(-4px); }
-    .card-header { padding: 16px; font-size: 1.1rem; font-weight: bold; }
-    .card-body { padding: 0 16px 16px; flex: 1; }
-    .card-body p { margin: 8px 0; font-size: 0.9rem; }
-    .card-footer { padding: 16px; text-align: right; }
-    .card-footer a { text-decoration: none; font-weight: bold; }
-    .active { border-left: 6px solid #28a745; }
-    .expired { border-left: 6px solid #dc3545; }
+    :root {
+      --primary-color: #2563eb;
+      --primary-hover: #1d4ed8;
+      --background: #f8fafc;
+      --card-bg: #ffffff;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --border-color: #e2e8f0;
+      --success: #22c55e;
+      --danger: #ef4444;
+      --radius: 12px;
+      --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+      --transition: all 0.3s ease;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--background);
+      color: var(--text-primary);
+      line-height: 1.5;
+      padding: 2rem;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 3rem;
+      padding: 2rem 0;
+    }
+
+    .header h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      background: linear-gradient(to right, var(--primary-color), #7c3aed);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .header p {
+      color: var(--text-secondary);
+      font-size: 1.1rem;
+    }
+
+    .filters {
+      max-width: 1200px;
+      margin: 0 auto 2rem;
+      padding: 1.5rem;
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      display: flex;
+      gap: 1.5rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 250px;
+      position: relative;
+    }
+
+    .search-box i {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-secondary);
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 0.875rem 1rem 0.875rem 2.5rem;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      font-size: 1rem;
+      transition: var(--transition);
+      color: var(--text-primary);
+    }
+
+    .search-box input:focus {
+      outline: none;
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    }
+
+    .state-filter {
+      min-width: 200px;
+    }
+
+    .state-filter select {
+      width: 100%;
+      padding: 0.875rem 1rem;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      font-size: 1rem;
+      color: var(--text-primary);
+      background-color: var(--card-bg);
+      cursor: pointer;
+      transition: var(--transition);
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%2364748b'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 1rem center;
+      background-size: 1.5em;
+    }
+
+    .state-filter select:focus {
+      outline: none;
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: var(--transition);
+      position: relative;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    }
+
+    .card.active {
+      border-top: 4px solid var(--success);
+    }
+
+    .card.expired {
+      border-top: 4px solid var(--danger);
+    }
+
+    .card-header {
+      padding: 1.5rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 0.5rem;
+    }
+
+    .card-subtitle {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .card-body {
+      padding: 1.5rem;
+      flex: 1;
+    }
+
+    .info-group {
+      margin-bottom: 1rem;
+    }
+
+    .info-group:last-child {
+      margin-bottom: 0;
+    }
+
+    .info-label {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+      margin-bottom: 0.25rem;
+    }
+
+    .info-value {
+      font-size: 0.95rem;
+      color: var(--text-primary);
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .tag {
+      font-size: 0.75rem;
+      padding: 0.25rem 0.75rem;
+      background: #e2e8f0;
+      color: var(--text-secondary);
+      border-radius: 9999px;
+    }
+
+    .card-footer {
+      padding: 1.5rem;
+      border-top: 1px solid var(--border-color);
+      text-align: right;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      background: var(--primary-color);
+      color: white;
+      border: none;
+      border-radius: var(--radius);
+      font-size: 0.95rem;
+      font-weight: 500;
+      text-decoration: none;
+      transition: var(--transition);
+    }
+
+    .btn:hover {
+      background: var(--primary-hover);
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        padding: 1rem;
+      }
+
+      .header {
+        padding: 1rem 0;
+      }
+
+      .header h1 {
+        font-size: 2rem;
+      }
+
+      .filters {
+        padding: 1rem;
+      }
+
+      .container {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 3rem;
+      color: var(--text-secondary);
+      grid-column: 1 / -1;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .card {
+      animation: fadeIn 0.3s ease-out;
+    }
   </style>
 </head>
 <body>
-  <h1>Concursos TI</h1>
+  <header class="header">
+    <h1>Concursos TI</h1>
+  </header>
+  
+  <div class="filters">
+    <div class="search-box">
+      <i class="fas fa-search"></i>
+      <input type="text" id="search" placeholder="Pesquisar por cargo, matérias ou localização...">
+    </div>
+    <div class="state-filter">
+      <select id="state-filter">
+        <option value="">Todos os Estados</option>
+      </select>
+    </div>
+  </div>
+
   <div class="container" id="cards-container"></div>
 
   <script>
@@ -33,7 +313,6 @@
     // Extrai início e fim do rawDate (item.date)
     function parseDateRange(raw) {
       if (!raw) return [null, null];
-      // padroniza espaços
       raw = raw.replace(/\s*a\s*/i, ' a ');
       const rangeMatch = raw.match(/(\d{2}\/\d{2}\/\d{4})\s+a\s+(\d{2}\/\d{2}\/\d{4})/);
       if (rangeMatch) return [rangeMatch[1], rangeMatch[2]];
@@ -42,22 +321,83 @@
       return [null, null];
     }
 
+    // Extrai estado da string do título
+    function extractState(title) {
+      const stateMatch = title.match(/\s-\s([A-Z]{2})\b/);
+      return stateMatch ? stateMatch[1] : null;
+    }
+
+    // Formata data para exibição
+    function formatDate(dateStr) {
+      if (!dateStr) return 'Data não definida';
+      return dateStr; // Retorna a data no formato original (DD/MM/YYYY)
+    }
+
+    // Função para filtrar os cards
+    function filterCards() {
+      const searchTerm = document.getElementById('search').value.toLowerCase();
+      const selectedState = document.getElementById('state-filter').value;
+      let visibleCount = 0;
+      
+      document.querySelectorAll('.card').forEach(card => {
+        const title = card.querySelector('.card-title').textContent.toLowerCase();
+        const content = card.querySelector('.card-body').textContent.toLowerCase();
+        const cardState = card.dataset.state;
+        
+        const matchesSearch = title.includes(searchTerm) || content.includes(searchTerm);
+        const matchesState = !selectedState || cardState === selectedState;
+        
+        const isVisible = matchesSearch && matchesState;
+        card.classList.toggle('hidden', !isVisible);
+        if (isVisible) visibleCount++;
+      });
+
+      // Mostrar mensagem quando não houver resultados
+      let noResults = document.querySelector('.no-results');
+      if (visibleCount === 0) {
+        if (!noResults) {
+          noResults = document.createElement('div');
+          noResults.className = 'no-results';
+          noResults.innerHTML = `
+            <i class="fas fa-search" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.5;"></i>
+            <h3>Nenhum resultado encontrado</h3>
+            <p>Tente ajustar seus filtros de pesquisa</p>
+          `;
+          document.getElementById('cards-container').appendChild(noResults);
+        }
+      } else if (noResults) {
+        noResults.remove();
+      }
+    }
+
     fetch('data.json')
       .then(res => res.json())
       .then(list => {
         const today = new Date();
+        const states = new Set();
+
         list.forEach(item => {
           const raw = item.start_date || item.date || '';
           const [start, end] = parseDateRange(raw);
           item._start = start;
           item._end = end;
-          // definir expirado
           const endDate = end ? parseDate(end) : (start ? parseDate(start) : null);
           item.expired = endDate ? (endDate < today) : true;
-          // sortKey
           item.sortKey = start ? parseDate(start) : new Date(8640000000000000);
+          item.state = extractState(item.title);
+          if (item.state) states.add(item.state);
         });
-        // ordena: ativos primeiro por data asc, depois expirados
+
+        // Preencher o select de estados
+        const stateSelect = document.getElementById('state-filter');
+        Array.from(states).sort().forEach(state => {
+          const option = document.createElement('option');
+          option.value = state;
+          option.textContent = state;
+          stateSelect.appendChild(option);
+        });
+
+        // Ordenação
         list.sort((a, b) => {
           if (a.expired !== b.expired) return a.expired - b.expired;
           return a.sortKey - b.sortKey;
@@ -67,21 +407,43 @@
         list.forEach(item => {
           const card = document.createElement('div');
           card.className = 'card ' + (item.expired ? 'expired' : 'active');
+          if (item.state) card.dataset.state = item.state;
 
           const header = document.createElement('div');
           header.className = 'card-header';
-          header.textContent = item.title;
+          header.innerHTML = `
+            <div class="card-title">${item.title}</div>
+            <div class="card-subtitle">
+              <i class="fas fa-map-marker-alt"></i>
+              ${item.state || 'Local não especificado'}
+            </div>
+          `;
           card.appendChild(header);
 
           const body = document.createElement('div');
           body.className = 'card-body';
+          
           const dateText = item._start
-            ? (item._end ? `${item._start} até ${item._end}` : item._start)
-            : 'Data indefinida';
+            ? (item._end ? `${formatDate(item._start)} até ${formatDate(item._end)}` : formatDate(item._start))
+            : 'Data não definida';
+
           body.innerHTML = `
-            <p><strong>Período:</strong> ${dateText}</p>
-            <p><strong>Cargo:</strong> ${item.job || '—'}</p>
-            <p><strong>Matérias:</strong> ${item.materias ? item.materias.join(', ') : '—'}</p>
+            <div class="info-group">
+              <div class="info-label">Período de Inscrição</div>
+              <div class="info-value">${dateText}</div>
+            </div>
+            <div class="info-group">
+              <div class="info-label">Cargo</div>
+              <div class="info-value">${item.job || '—'}</div>
+            </div>
+            <div class="info-group">
+              <div class="info-label">Matérias</div>
+              <div class="tags">
+                ${item.materias && item.materias.length > 0 
+                  ? item.materias.map(m => `<span class="tag">${m}</span>`).join('')
+                  : '<span class="tag">Não especificado</span>'}
+              </div>
+            </div>
           `;
           card.appendChild(body);
 
@@ -90,12 +452,20 @@
           const link = document.createElement('a');
           link.href = item.url;
           link.target = '_blank';
-          link.textContent = 'Ver edital';
+          link.className = 'btn';
+          link.innerHTML = `
+            Ver edital
+            <i class="fas fa-external-link-alt"></i>
+          `;
           footer.appendChild(link);
           card.appendChild(footer);
 
           container.appendChild(card);
         });
+
+        // Event listeners para os filtros
+        document.getElementById('search').addEventListener('input', filterCards);
+        document.getElementById('state-filter').addEventListener('change', filterCards);
       })
       .catch(err => console.error('Erro ao carregar data.json', err));
   </script>

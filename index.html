@@ -345,7 +345,9 @@
         const cardState = card.dataset.state;
         
         const matchesSearch = title.includes(searchTerm) || content.includes(searchTerm);
-        const matchesState = !selectedState || cardState === selectedState;
+        const matchesState = !selectedState || 
+                           (selectedState === 'NACIONAL' && (!cardState || cardState === 'NACIONAL')) ||
+                           cardState === selectedState;
         
         const isVisible = matchesSearch && matchesState;
         card.classList.toggle('hidden', !isVisible);

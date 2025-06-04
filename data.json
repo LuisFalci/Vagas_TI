@@ -749,5 +749,122 @@
     "job": "técnico de informática",
     "start_date": "02/07/2025",
     "pdf_url": "https://arq.pciconcursos.com.br/camara-de-teixeira-de-freitas-ba-promove-concursos-publicos-com-salarios-de-ate-10-mil/1676423/90679608fb/edital_de_abertura_n_04_2025_1676423.pdf"
+  },
+  {
+    "title": "Prefeitura de Barra do Corda - MA retifica dois editais de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-corda-ma-retifica-dois-editais-de-concurso-publico",
+    "state": "MA",
+    "job": "Cargo não encontrado",
+    "start_date": "16/06/2025",
+    "materias": [
+      "java",
+      "javascript",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-barra-do-corda-ma-retifica-dois-editais-de-concurso-publico/1674796/3491df4e78/edital_de_abertura_n_01_2025_retificado_1674796.pdf"
+  },
+  {
+    "title": "Prefeitura de Bom Jardim - PE abre 454 vagas em novo Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jardim-pe-abre-454-vagas-em-novo-concurso-publico",
+    "state": "PE",
+    "job": "Cargo não encontrado",
+    "start_date": "03/07/2025",
+    "materias": [
+      "inteligência artificial",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-bom-jardim-pe-abre-454-vagas-em-novo-concurso-publico/1676394/171dd91441/edital_de_abertura_n_01_2025_1676394.pdf"
+  },
+  {
+    "title": "TCE - PE abre edital de Concurso Público com 36 vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/tce-pe-abre-edital-de-concurso-publico-com-36-vagas",
+    "state": "PE",
+    "job": "Cargo não encontrado",
+    "start_date": "03/07/2025",
+    "materias": [
+      "cobit",
+      "data lake",
+      "devops",
+      "engenharia de software",
+      "inteligência artificial",
+      "itil",
+      "machine learning",
+      "nosql",
+      "scrum",
+      "sql",
+      "trigger"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/tce-pe-abre-edital-de-concurso-publico-com-36-vagas/1676247/7a52d66b11/edital_de_abertura_n_01_2025_1676247.pdf"
+  },
+  {
+    "title": "CRMV abre Concurso Público em Teresina - PI",
+    "url": "https://www.pciconcursos.com.br/noticias/crmv-abre-concurso-publico-em-teresina-pi",
+    "state": "PI",
+    "job": "analista de suporte",
+    "start_date": "22/06/2025",
+    "materias": [
+      "cmmi",
+      "cobit",
+      "data mining",
+      "engenharia de requisitos",
+      "engenharia de software",
+      "entidade-relacionamento",
+      "infraestrutura de ti",
+      "itil",
+      "java",
+      "mps-br",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "pmbok",
+      "qualidade de software",
+      "scrum",
+      "sgd/me nº 94",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "trigger",
+      "governança de ti"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/crmv-abre-concurso-publico-em-teresina-pi/1675143/cf27fd494f/edital_de_abertura_n_01_2025_1675143.pdf"
+  },
+  {
+    "title": "Cremese abre Concurso Público para cadastro reserva e uma vaga em Aracaju - SE",
+    "url": "https://www.pciconcursos.com.br/noticias/cremese-abre-concurso-publico-para-cadastro-reserva-e-uma-vaga-em-aracaju-se",
+    "state": "SE",
+    "job": "analista de sistemas",
+    "start_date": "20/06/2025",
+    "materias": [
+      "arquitetura cliente-servidor",
+      "arquitetura de software",
+      "design patterns",
+      "devops",
+      "engenharia de software",
+      "entidade-relacionamento",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "machine learning",
+      "microsserviços",
+      "nosql",
+      "pmbok",
+      "react",
+      "scrum",
+      "soap",
+      "sql",
+      "sql server",
+      "stored procedure",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "vue.js",
+      "governança de ti",
+      "docker"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/cremese-abre-concurso-publico-para-cadastro-reserva-e-uma-vaga-em-aracaju-se/1673808/b214fc197c/edital_de_abertura_n_01_2025_1673808.pdf"
   }
 ]

@@ -390,6 +390,14 @@
 
         // Preencher o select de estados
         const stateSelect = document.getElementById('state-filter');
+        
+        // Adiciona opção Nacional primeiro
+        const nationalOption = document.createElement('option');
+        nationalOption.value = 'NACIONAL';
+        nationalOption.textContent = 'Nacional';
+        stateSelect.appendChild(nationalOption);
+        
+        // Adiciona os demais estados
         Array.from(states).sort().forEach(state => {
           const option = document.createElement('option');
           option.value = state;
@@ -415,7 +423,7 @@
             <div class="card-title">${item.title}</div>
             <div class="card-subtitle">
               <i class="fas fa-map-marker-alt"></i>
-              ${item.state || 'Local não especificado'}
+              ${item.state || 'Nacional'}
             </div>
           `;
           card.appendChild(header);

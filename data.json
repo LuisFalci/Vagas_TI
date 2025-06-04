@@ -46,42 +46,6 @@
     "pdf_url": "https://arq.pciconcursos.com.br/ime-abre-concurso-para-engenheiros-com-salario-inicial-de-8-2-mil/1675832/a3a6a9c383/edital_de_abertura_n_04_2025_1675832.pdf"
   },
   {
-    "title": "Polícia Federal informa abertura de Concurso Público com 1.000 vagas",
-    "url": "https://www.pciconcursos.com.br/noticias/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas",
-    "state": "NACIONAL",
-    "job": "Cargo não encontrado",
-    "start_date": "13/06/2025",
-    "materias": [
-      "arquitetura cliente-servidor",
-      "entidade-relacionamento",
-      "inteligência artificial",
-      "itil",
-      "java",
-      "javascript",
-      "low-code",
-      "machine learning",
-      "no-code",
-      "nosql",
-      "oauth",
-      "owasp",
-      "sgd/me nº 94",
-      "sql",
-      "tcp",
-      "tcp/ip",
-      "aprendizado de máquina",
-      "governança de ti",
-      "docker",
-      "kubernetes",
-      "Middleware",
-      "APIs REST",
-      "REST/GraphQL",
-      "SonarQube",
-      "Single Sign-On",
-      "OAuth"
-    ],
-    "pdf_url": "https://arq.pciconcursos.com.br/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas/1675442/de5945e19b/edital_de_abertura_n_01_2025_1675442.pdf"
-  },
-  {
     "title": "Marinha abre inscrições para Curso de Formação do Corpo Auxiliar de Praças",
     "url": "https://www.pciconcursos.com.br/noticias/marinha-abre-inscricoes-para-curso-de-formacao-do-corpo-auxiliar-de-pracas",
     "state": "NACIONAL",
@@ -866,5 +830,56 @@
       "docker"
     ],
     "pdf_url": "https://arq.pciconcursos.com.br/cremese-abre-concurso-publico-para-cadastro-reserva-e-uma-vaga-em-aracaju-se/1673808/b214fc197c/edital_de_abertura_n_01_2025_1673808.pdf"
+  },
+  {
+    "title": "Prefeitura de Porangaba - SP retifica dois editais de Concursos Públicos",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porangaba-sp-retifica-dois-editais-de-concursos-publicos",
+    "state": "SP",
+    "job": "Cargo não encontrado",
+    "start_date": "03/07/2025",
+    "materias": [
+      "inteligência artificial",
+      "java",
+      "javascript",
+      "sql",
+      "testes de software"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-porangaba-sp-retifica-dois-editais-de-concursos-publicos/1676093/c33b9c2b6c/edital_de_abertura_n_01_2025_retificado_1676093.pdf"
+  },
+  {
+    "title": "Polícia Federal informa abertura de Concurso Público com 1.000 vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas",
+    "state": "NACIONAL",
+    "job": "Cargo não encontrado",
+    "start_date": "13/06/2025",
+    "materias": [
+      "arquitetura cliente-servidor",
+      "entidade-relacionamento",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "low-code",
+      "machine learning",
+      "no-code",
+      "nosql",
+      "oauth",
+      "owasp",
+      "sgd/me nº 94",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "aprendizado de máquina",
+      "governança de ti",
+      "docker",
+      "kubernetes",
+      "Middleware",
+      "APIs REST",
+      "REST/GraphQL",
+      "SonarQube",
+      "Single Sign-On",
+      "OAuth"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas/1675442/de5945e19b/edital_de_abertura_n_01_2025_1675442.pdf"
   }
 ]

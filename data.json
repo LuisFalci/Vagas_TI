@@ -881,5 +881,33 @@
       "OAuth"
     ],
     "pdf_url": "https://arq.pciconcursos.com.br/policia-federal-informa-abertura-de-concurso-publico-com-1000-vagas/1675442/de5945e19b/edital_de_abertura_n_01_2025_1675442.pdf"
+  },
+  {
+    "title": "Prefeitura de Recreio - MG retifica Concurso Público com 34 vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-recreio-mg-retifica-concurso-publico-com-34-vagas",
+    "state": "MG",
+    "job": "técnico de informática",
+    "start_date": "29/08/2025",
+    "materias": [
+      "itil",
+      "java",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-recreio-mg-retifica-concurso-publico-com-34-vagas/1676222/fc30e2f355/edital_de_abertura_n_01_2025_retificado_1676222.pdf"
+  },
+  {
+    "title": "Edital de Processo Seletivo é divulgado pela Autarquia Educacional de Belo Jardim - PE",
+    "url": "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-divulgado-pela-autarquia-educacional-de-belo-jardim-pe",
+    "state": "PE",
+    "job": "Cargo não encontrado",
+    "start_date": "25/06/2025",
+    "materias": [
+      "infraestrutura de ti",
+      "mysql",
+      "sql"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/edital-de-processo-seletivo-e-divulgado-pela-autarquia-educacional-de-belo-jardim-pe/1676640/261c1d6328/edital_de_abertura_n_02_2025_1676640.pdf"
   }
 ]

@@ -923,5 +923,69 @@
       "docker"
     ],
     "pdf_url": "https://arq.pciconcursos.com.br/famesp-lanca-abertura-de-nove-editais-de-processo-seletivo/1676686/a8c917f4bb/edital_de_abertura_n_184_2025_1676686.pdf"
+  },
+  {
+    "title": "SAMAE e Prefeitura de Boa Ventura de São Roque - PR divulgam editais de Concursos Públicos",
+    "url": "https://www.pciconcursos.com.br/noticias/samae-e-prefeitura-de-boa-ventura-de-sao-roque-pr-divulgam-editais-de-concursos-publicos",
+    "state": "PR",
+    "job": "analista de tecnologia da informação",
+    "start_date": "03/07/2025",
+    "materias": [
+      "arquitetura de software",
+      "extreme programming",
+      "html/css",
+      "java",
+      "scrum",
+      "soap",
+      "sql",
+      "testes de software"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/samae-e-prefeitura-de-boa-ventura-de-sao-roque-pr-divulgam-editais-de-concursos-publicos/1676717/070cb5329a/edital_de_abertura_n_01_2025_prefeitura_municipal_1676717.pdf"
+  },
+  {
+    "title": "Prefeitura de Pão de Açúcar - AL publica edital retificado de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pao-de-acucar-al-publica-edital-retificado-de-concurso-publico",
+    "state": "AL",
+    "job": "analista de sistemas",
+    "start_date": "03/07/2025",
+    "materias": [
+      "arquitetura de software",
+      "cobit",
+      "data warehouse",
+      "engenharia de software",
+      "entidade-relacionamento",
+      "html/css",
+      "itil",
+      "java",
+      "javascript",
+      "microsserviços",
+      "mysql",
+      "owasp",
+      "oracle",
+      "pmbok",
+      "postgresql",
+      "react",
+      "scrum",
+      "soap",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "vue.js",
+      "governança de ti",
+      "docker",
+      "kubernetes",
+      "APIs REST"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-pao-de-acucar-al-publica-edital-retificado-de-concurso-publico/1676235/9a521d5f6b/edital_de_abertura_n_01_2025_retificado_1676235.pdf"
+  },
+  {
+    "title": "Prefeitura de Três Ranchos - GO abre Processo Seletivo com 15 vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-ranchos-go-abre-processo-seletivo-com-15-vagas",
+    "state": "GO",
+    "job": "técnico de informática",
+    "start_date": "16/06/2025",
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-tres-ranchos-go-abre-processo-seletivo-com-15-vagas/1676819/18a9666d12/edital_de_abertura_n_02_2025_1676819.pdf"
   }
 ]

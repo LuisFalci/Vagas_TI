@@ -2529,5 +2529,345 @@
       "tcp/ip"
     ],
     "pdf_url": "https://arq.pciconcursos.com.br/ifpa-divulga-abertura-de-concurso-publico-para-professores-de-ensino-superior/1677918/871e90303d/edital_de_abertura_n_01_2025_1677918.pdf"
+  },
+  {
+    "title": "FHSL - SP publica edital de Processo Seletivo",
+    "url": "https://www.pciconcursos.com.br/noticias/fhsl-sp-publica-edital-de-processo-seletivo",
+    "state": "SP",
+    "job": "Cargo não encontrado",
+    "start_date": "24/07/2025",
+    "materias": [
+      "devops",
+      "itil",
+      "oracle",
+      "postgresql",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "docker",
+      "kubernetes",
+      "containers"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/fhsl-sp-publica-edital-de-processo-seletivo/1679174/e559046269/edital_de_abertura_n_007_2025_1679174.pdf"
+  },
+  {
+    "title": "Prefeitura de Indaiatuba - SP abre Concurso Público com 203 vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaiatuba-sp-abre-concurso-publico-com-203-vagas",
+    "state": "SP",
+    "job": "Cargo não encontrado",
+    "start_date": "04/09/2025",
+    "materias": [
+      "cobit",
+      "itil",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-indaiatuba-sp-abre-concurso-publico-com-203-vagas/1679183/d28c919df3/edital_de_abertura_n_01_2025_1679183.pdf"
+  },
+  {
+    "title": "CRM - ES anuncia Concurso Público com sete vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/crm-es-anuncia-concurso-publico-com-sete-vagas",
+    "state": "ES",
+    "job": "analista de tecnologia da informação",
+    "start_date": "25/08/2025",
+    "materias": [
+      "cobit",
+      "html/css",
+      "infraestrutura de ti",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "javascript",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "governança de ti"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/crm-es-anuncia-concurso-publico-com-sete-vagas/1679165/d5afc65bff/edital_de_abertura_n_01_2025_1679165.pdf"
+  },
+  {
+    "title": "CAU - MA promove Concurso Público com salários de até R$ 9 mil",
+    "url": "https://www.pciconcursos.com.br/noticias/cau-ma-promove-concurso-publico-com-salarios-de-ate-9-mil",
+    "state": "MA",
+    "job": "Cargo não encontrado",
+    "start_date": "25/08/2025",
+    "materias": [
+      "inteligência artificial",
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/cau-ma-promove-concurso-publico-com-salarios-de-ate-9-mil/1679164/7b19463158/edital_de_abertura_n_01_2025_1679164.pdf"
+  },
+  {
+    "title": "IBC - RJ divulga retificação de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/ibc-rj-divulga-retificacao-de-concurso-publico",
+    "state": "RJ",
+    "job": "analista de tecnologia da informação",
+    "start_date": "29/07/2025",
+    "materias": [
+      "cmmi",
+      "data mining",
+      "data warehouse",
+      "design patterns",
+      "devops",
+      "engenharia de requisitos",
+      "engenharia de software",
+      "entidade-relacionamento",
+      "inteligência artificial",
+      "java",
+      "mps-br",
+      "microsserviços",
+      "mysql",
+      "postgresql",
+      "scrum",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "tdd",
+      "typescript",
+      "aprendizado de máquina",
+      "docker",
+      "kubernetes",
+      "orientação a objetos",
+      "apis rest"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/ibc-rj-divulga-retificacao-de-concurso-publico/1677228/7d7faa53df/edital_de_abertura_n_7_2025_retificado_1677228.pdf"
+  },
+  {
+    "title": "Prefeitura de Iacri - SP divulga retificação de Processo Seletivo",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iacri-sp-divulga-retificacao-de-processo-seletivo",
+    "state": "SP",
+    "job": "Cargo não encontrado",
+    "start_date": "30/07/2025",
+    "materias": [
+      "cmmi",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-iacri-sp-divulga-retificacao-de-processo-seletivo/1679129/aa4ccc40ce/edital_de_abertura_n_003_2025_1679129.pdf"
+  },
+  {
+    "title": "TCE-MS abre inscrições para dois novos Concursos Públicos",
+    "url": "https://www.pciconcursos.com.br/noticias/tce-ms-abre-inscricoes-para-dois-novos-concursos-publicos",
+    "state": "MS",
+    "job": "Cargo não encontrado",
+    "start_date": "21/08/2025",
+    "materias": [
+      "cobit",
+      "inteligência artificial",
+      "itil",
+      "java",
+      "mysql",
+      "pmbok",
+      "sql",
+      "governança de ti"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/tce-ms-abre-inscricoes-para-dois-novos-concursos-publicos/1679290/713b4fccaf/edital_de_abertura_n_1_2025_servidor_1679290.pdf"
+  },
+  {
+    "title": "Prefeitura de Araras - SP prorroga inscrições para Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araras-sp-prorroga-inscricoes-para-concurso-publico",
+    "state": "SP",
+    "job": "programador",
+    "start_date": "31/07/2025",
+    "materias": [
+      "data mining",
+      "data warehouse",
+      "design patterns",
+      "entidade-relacionamento",
+      "itil",
+      "java",
+      "javascript",
+      "mysql",
+      "oracle",
+      "pl/sql",
+      "pmbok",
+      "soap",
+      "sql",
+      "sql server",
+      "stored procedure",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "web services",
+      "webapi"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-araras-sp-prorroga-inscricoes-para-concurso-publico/1677211/b7ec264a95/edital_de_abertura_n_01_2025_1677211.pdf"
+  },
+  {
+    "title": "Prefeitura de Paulistânia - SP abre inscrições para edital de Processo Seletivo e Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulistania-sp-abre-inscricoes-para-edital-de-processo-seletivo-e-concurso-publico",
+    "state": "SP",
+    "job": "Cargo não encontrado",
+    "start_date": "14/08/2025",
+    "materias": [
+      "cobit",
+      "engenharia de software",
+      "itil",
+      "java",
+      "pmbok",
+      "scrum",
+      "sql",
+      "tcp",
+      "tcp/ip",
+      "testes de software",
+      "governança de ti"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-paulistania-sp-abre-inscricoes-para-edital-de-processo-seletivo-e-concurso-publico/1679313/9c2f850275/edital_de_abertura_n_01_2025_concurso_publico_1679313.pdf"
+  },
+  {
+    "title": "Câmara de Mário Campos - MG divulga retificação de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/camara-de-mario-campos-mg-divulga-retificacao-de-concurso-publico",
+    "state": "MG",
+    "job": "Cargo não encontrado",
+    "start_date": "18/09/2025",
+    "materias": [
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/camara-de-mario-campos-mg-divulga-retificacao-de-concurso-publico/1676461/68664d4955/edital_de_abertura_n_01_2025_retificado_1676461.pdf"
+  },
+  {
+    "title": "CODECA - RS retifica edital de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/codeca-rs-retifica-edital-de-concurso-publico",
+    "state": "RS",
+    "job": "Cargo não encontrado",
+    "start_date": "16/07/2025",
+    "materias": [
+      "html/css",
+      "soap",
+      "single sign-on"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/codeca-rs-retifica-edital-de-concurso-publico/1677431/d7303833b4/edital_de_abertura_n_01_2025_1677431.pdf"
+  },
+  {
+    "title": "SAD/SEJUSP/PCMS do Mato Grosso do Sul promovem 400 vagas em novo Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/sad-sejusp-pcms-do-mato-grosso-do-sul-promovem-400-vagas-em-novo-concurso-publico",
+    "state": "MS",
+    "job": "Cargo não encontrado",
+    "start_date": "07/08/2025",
+    "materias": [
+      "inteligência artificial",
+      "machine learning",
+      "tcp",
+      "tcp/ip",
+      "aprendizado de máquina"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/sad-sejusp-pcms-do-mato-grosso-do-sul-promovem-400-vagas-em-novo-concurso-publico/1679352/4e89d2cc96/edital_de_abertura_n_1_2025_1679352.pdf"
+  },
+  {
+    "title": "FHSL - SP divulga retificação de Processo Seletivo",
+    "url": "https://www.pciconcursos.com.br/noticias/fhsl-sp-divulga-retificacao-de-processo-seletivo",
+    "state": "SP",
+    "job": "Cargo não encontrado",
+    "start_date": "24/07/2025",
+    "materias": [
+      "devops",
+      "itil",
+      "oracle",
+      "postgresql",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "docker",
+      "kubernetes",
+      "containers"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/fhsl-sp-divulga-retificacao-de-processo-seletivo/1679174/bf19b4a205/edital_de_abertura_n_007_2025_1679174.pdf"
+  },
+  {
+    "title": "Prefeitura de Águas Frias - SC promove Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-frias-sc-promove-concurso-publico",
+    "state": "SC",
+    "job": "operador de sistemas",
+    "start_date": "11/08/2025",
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-aguas-frias-sc-promove-concurso-publico/1679444/d2687666f7/edital_de_abertura_n_01_2025_1679444.pdf"
+  },
+  {
+    "title": "Prefeitura de Bom Jardim da Serra - SC divulga retificações de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jardim-da-serra-sc-divulga-retificacoes-de-concurso-publico",
+    "state": "SC",
+    "job": "Cargo não encontrado",
+    "start_date": "07/08/2025",
+    "materias": [
+      "html/css",
+      "java",
+      "javascript",
+      "sql"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-bom-jardim-da-serra-sc-divulga-retificacoes-de-concurso-publico/1678463/d2621c1fbe/edital_de_abertura_n_01_2025_1678463.pdf"
+  },
+  {
+    "title": "Prefeitura de Camboriú - SC publica edital de Concurso Público com diversas vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camboriu-sc-publica-edital-de-concurso-publico-com-diversas-vagas",
+    "state": "SC",
+    "job": "analista de sistemas",
+    "start_date": "03/09/2025",
+    "materias": [
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-camboriu-sc-publica-edital-de-concurso-publico-com-diversas-vagas/1679400/c919877914/edital_de_abertura_n_01_2025_1679400.pdf"
+  },
+  {
+    "title": "MGS retifica Processo Seletivo para cadastro reserva em diversos níveis de escolaridade",
+    "url": "https://www.pciconcursos.com.br/noticias/mgs-retifica-processo-seletivo-para-cadastro-reserva-em-diversos-niveis-de-escolaridade",
+    "state": "MG",
+    "job": "analista de suporte",
+    "start_date": "21/07/2025",
+    "materias": [
+      "cobit",
+      "data mining",
+      "design patterns",
+      "engenharia de software",
+      "entidade-relacionamento",
+      "infraestrutura de ti",
+      "itil",
+      "java",
+      "javascript",
+      "machine learning",
+      "mysql",
+      "oracle",
+      "pmbok",
+      "postgresql",
+      "qualidade de software",
+      "scrum",
+      "sql",
+      "sql server",
+      "tcp",
+      "tcp/ip",
+      "trigger",
+      "web services",
+      "node.js",
+      "orientação a objetos"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/mgs-retifica-processo-seletivo-para-cadastro-reserva-em-diversos-niveis-de-escolaridade/1677557/562695e8d9/edital_de_abertura_n_04_2025_retificado_1677557.pdf"
+  },
+  {
+    "title": "Prefeitura de Uberlândia - MG divulga retificação de Concurso Público",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uberlandia-mg-divulga-retificacao-de-concurso-publico",
+    "state": "MG",
+    "job": "programador",
+    "start_date": "15/09/2025",
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-uberlandia-mg-divulga-retificacao-de-concurso-publico/1676976/b7d83cd47e/edital_de_abertura_n_01_2025_1676976.pdf"
+  },
+  {
+    "title": "Prefeitura de Iguatama - MG publica edital de Concurso Público com 202 vagas",
+    "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iguatama-mg-publica-edital-de-concurso-publico-com-202-vagas",
+    "state": "MG",
+    "job": "técnico de informática",
+    "start_date": "21/10/2025",
+    "materias": [
+      "sql",
+      "tcp",
+      "tcp/ip"
+    ],
+    "pdf_url": "https://arq.pciconcursos.com.br/prefeitura-de-iguatama-mg-publica-edital-de-concurso-publico-com-202-vagas/1679474/f00c2e287f/edital_de_abertura_n_01_2025_1679474.pdf"
   }
 ]
